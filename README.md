@@ -1,9 +1,7 @@
 ***Glosari de la Crónica Pestorum de Nostradamus***.
 
 Abrir los caminos: Se refiere al cese del confinamiento proclamado por la pandemia del coronavirus.
-
 Alguacil: policia.
-
 Amarillo: Referencia al independentismo catalán
 Antígona: Personaje de la tragedia Antígona que no obedece a Creonte, asociado a Quim Torra, President de la Generalitat de Catalunya que no firmó la declaración del consejo de presidentes de Autonomías.
 Arjuna: Uno de los héroes del poema épico hindú Mahabharata. Arjuna debe acudir a la guerra cumpliendo su deber como gobernante
