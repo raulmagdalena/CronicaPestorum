@@ -1,4 +1,4 @@
-***Glosario y Dramatis Personae de la Crónica Pestorum de Nostradamus***.
+##***Glosario y Dramatis Personae de la Crónica Pestorum de Nostradamus***.
 
 **Abrir los caminos**: Se refiere al cese del confinamiento proclamado por la pandemia del coronavirus.
 
@@ -8,7 +8,7 @@
 
 **Antígona**: Personaje de la tragedia de Sófocles [Antígona](https://es.wikipedia.org/wiki/Ant%C3%ADgona) que no obedece a [Creonte](https://es.wikipedia.org/wiki/Creonte) rey de [Tebas](https://es.wikipedia.org/wiki/Tebas_(Grecia)). Personaje asociado a Quim Torra, President de la Generalitat de Catalunya que no firmó la declaración del consejo de presidentes de Autonomías. En la [tragedia](https://es.wikipedia.org/wiki/Ant%C3%ADgona_(S%C3%B3focles)), Antígona desobedece la ley al enterrar a su hermano Polinices. En la cultura occidental, Antígona ha representado el papel de la desobediencia frente a la ley y el poderoso aun a riesgo de la muerte. 
 
-**Arjuna**: Uno de los héroes del poema épico hindú [Mahabharata](https://es.wikipedia.org/wiki/Mahabh%C3%A1rata). [Arjuna](https://es.wikipedia.org/wiki/Arjuna) debe acudir a la guerra cumpliendo su deber como gobernante.
+**Arjuna**: Uno de los héroes del poema épico hindú [Mahabharata](https://es.wikipedia.org/wiki/Mahabh%C3%A1rata). [Arjuna](https://es.wikipedia.org/wiki/Arjuna) debe acudir a la guerra cumpliendo su deber como gobernante. En la Crónica Pestorum el papel de Arjuna puede asociarse al presidente del Gobierno Español que, como Arjuna, debe cumplir su papel como gobernante sin tener en cuenta el coste personal. Arjuna en un principio duda, ***Valdrá la pena, se pregunta, aniquilar a su propia gente por el bien del reino?***
 
 Azul: Referencia al partido político PP cuyo color/marca és el azul.
 
