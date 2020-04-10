@@ -1,6 +1,6 @@
 **Glosario y Dramatis Personae de la Crónica Pestorum de Nostradamus**. [Crónica Pestorum](https://twitter.com/CronicaPestorum)
 
-<a name="caminos"></a>**Apertura y cierre de los caminos**: Se refiere al [encierro](#encierro) proclamado por [la peste](#la peste) del coronavirus.
+<a name="caminos"></a>**Apertura y cierre de los caminos**: Se refiere al [encierro](#encierro) proclamado por [la Peste](#la peste) del coronavirus.
 
 **Alguacil**: policia.
 
