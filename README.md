@@ -24,7 +24,7 @@ Cancillería: Ministerio.
 
 Cancillería del galeno: Ministerio de Sanidad.
 
-Casa de las Hierbas: Casa dels Canonjes, residencia oficial del President de la Generalitat de Catalunya. Canonjes significa canónigos en catalán, hierba comestible.
+Casa de las Hierbas: Casa dels Canonjes, residencia oficial del President de la Generalitat de Catalunya. Canonjes significa canónigos en catalán, una hierba comestible.
 
 Cayo: Cayo Sempronio Graco, hermano menor de Tiberio y a su vez Tribuno de la plebe romana, también asesinado por los patricios.
 
