@@ -1,4 +1,4 @@
-##Glosario y Dramatis Personae de la Crónica Pestorum de Nostradamus.
+##**Glosario y Dramatis Personae de la Crónica Pestorum de Nostradamus**.
 
 **Abrir los caminos**: Se refiere al cese del confinamiento proclamado por la pandemia del coronavirus.
 
@@ -8,13 +8,13 @@
 
 **Antígona**: Personaje de la tragedia de Sófocles [Antígona](https://es.wikipedia.org/wiki/Ant%C3%ADgona) que no obedece a [Creonte](https://es.wikipedia.org/wiki/Creonte) rey de [Tebas](https://es.wikipedia.org/wiki/Tebas_(Grecia)). Personaje asociado a Quim Torra, President de la Generalitat de Catalunya que no firmó la declaración del consejo de presidentes de Autonomías. En la [tragedia](https://es.wikipedia.org/wiki/Ant%C3%ADgona_(S%C3%B3focles)), Antígona desobedece la ley al enterrar a su hermano Polinices. En la cultura occidental, Antígona ha representado el papel de la desobediencia frente a la ley y el poderoso aun a riesgo de la muerte. 
 
-**Arjuna**: Uno de los héroes del poema épico hindú [Mahabharata](https://es.wikipedia.org/wiki/Mahabh%C3%A1rata). [Arjuna](https://es.wikipedia.org/wiki/Arjuna) debe acudir a la guerra cumpliendo su deber como gobernante. En la Crónica Pestorum el papel de Arjuna puede asociarse al presidente del Gobierno Español que, como Arjuna, debe cumplir su papel como gobernante sin tener en cuenta el coste personal. Arjuna en un principio duda, ***Valdrá la pena, se pregunta, aniquilar a su propia gente por el bien del reino?***
+**Arjuna**: Uno de los héroes del poema épico hindú [Mahabharata](https://es.wikipedia.org/wiki/Mahabh%C3%A1rata). [Arjuna](https://es.wikipedia.org/wiki/Arjuna) debe acudir a la guerra cumpliendo su deber como gobernante. En la Crónica Pestorum el papel de Arjuna puede asociarse al presidente del Gobierno Español que, como Arjuna, debe cumplir su papel como gobernante sin tener en cuenta el coste personal. Arjuna en un principio duda, ***Valdrá la pena, se pregunta, aniquilar a su propia gente por el bien del reino?*** En esta tesitura pide consejo a [Krisna](https://es.wikipedia.org/wiki/Krishna) que para impresionarle y convenzerle de cumplir su deber se transforma y le dice "Ahora me he convertido en la Muerte, la destructora de mundos". [Robert Oppenheimer](https://es.wikiquote.org/wiki/Robert_Oppenheimer) citó estas palabras tras el ensayo de la bomba atómica en Alamogordo, ya que considerabá haber cumplido con su deber, como Arjuna, pese sus preferencias morales.
 
-Azul: Referencia al partido político PP cuyo color/marca és el azul.
+***Azul***: Referencia al partido político PP cuyo color/marca és el azul.
 
-Bando: Ley.
+***Bando***: Ley.
 
-Bruto, El hijo del francés: Felipe VI, hijo de Juan Carlos I de Borbón, dinastía real de origen francés. Bruto por haber denunciado la corrupción de su padre.
+***Bruto, El hijo del francés***: Felipe VI, hijo de Juan Carlos I de Borbón, dinastía real de origen francés. Bruto por haber denunciado la corrupción de su padre durante la progresión de la pandemia. Bruto
 
 Caída de la Peste: Descenso del número de contagios, lo que se ha venido a llamar "aplanar la curva".
 
