@@ -14,19 +14,19 @@
 
 ***Bando***: Ley.
 
-***Bruto, El hijo del francés***: Felipe VI, hijo de Juan Carlos I de Borbón, dinastía real de origen francés. Bruto por haber denunciado la corrupción de su padre durante la progresión de la pandemia. Bruto
+***Bruto, El hijo del francés***: Felipe VI, hijo de Juan Carlos I de Borbón, dinastía real de origen francés. Bruto por haber denunciado la corrupción de su padre durante la progresión de la pandemia. [Marco Junio Bruto](https://es.wikipedia.org/wiki/Marco_Junio_Bruto), tiranicida y asesino de Julio Cesar, su supuesto padre. 
 
-Caída de la Peste: Descenso del número de contagios, lo que se ha venido a llamar "aplanar la curva".
+***Caída de la Peste***: Descenso del número de contagios, lo que se ha venido a llamar "aplanar la curva".
 
-Canciller del gremio de los mercaderes: Ministra de economía del Gobierno.
+***Canciller del gremio de los mercaderes***: Ministra de economía del Gobierno.
 
-Cancillería: Ministerio.
+***Cancillería***: Ministerio.
 
-Cancillería del galeno: Ministerio de Sanidad.
+***Cancillería del galeno***: Ministerio de Sanidad.
 
-Casa de las Hierbas: Casa dels Canonjes, residencia oficial del President de la Generalitat de Catalunya. Canonjes significa canónigos en catalán, una hierba comestible.
+***Casa de las Hierbas***: Casa dels Canonjes, residencia oficial del President de la Generalitat de Catalunya. Canonjes significa canónigos en catalán, una hierba comestible.
 
-Cayo: Cayo Sempronio Graco, hermano menor de Tiberio y a su vez Tribuno de la plebe romana, también asesinado por los patricios.
+***Cayo***: [Cayo Sempronio Graco](https://es.wikipedia.org/wiki/Cayo_Sempronio_Graco), hermano menor de [Tiberio](https://es.wikipedia.org/wiki/Tiberio_Sempronio_Graco) y a su vez [Tribuno de la plebe](https://es.wikipedia.org/wiki/Tribuno_de_la_plebe) romana, ambos asesinados por los patricios debido a su política reformista.
 
 Centuriones: Militares.
 
