@@ -10,9 +10,13 @@
 
 <a name="arjuna"></a>**Arjuna**: Uno de los héroes del poema épico hindú [Mahabharata](https://es.wikipedia.org/wiki/Mahabh%C3%A1rata). [Arjuna](https://es.wikipedia.org/wiki/Arjuna) debe acudir a la guerra cumpliendo su deber como gobernante. En la Crónica Pestorum el papel de Arjuna puede asociarse al presidente del Gobierno Español que, como Arjuna, debe cumplir su papel como gobernante sin tener en cuenta el coste personal. Arjuna en un principio duda, ***Valdrá la pena, se pregunta, aniquilar a su propia gente por el bien del reino?*** En esta tesitura pide consejo a [Krisna](https://es.wikipedia.org/wiki/Krishna) que para impresionarle y convencerle de cumplir su deber se transforma y le dice "Ahora me he convertido en la Muerte, la destructora de mundos". [Robert Oppenheimer](https://es.wikiquote.org/wiki/Robert_Oppenheimer) citó estas palabras tras el ensayo de la bomba atómica en Alamogordo, ya que considerabá haber cumplido con su deber, como Arjuna, pese sus preferencias morales.
 
+<a name="auctoritas"></a>***Auctoritas***: En latín, el que tiene el poder. En la Crónica es la 'autoridad competente' designada durante el estado de alarma.
+
 ***Azul***: Referencia al partido político PP cuya enseña és el azul.
 
 ***Bando***: Ley.
+
+<a name="bolsa del oro"></a>***Bolsa del oro***: Referencia a los coronabonos, bonos solicitados el BCE para hecer frente a los gastos de la Peste.
 
 ***Bruto, El hijo del francés***: Felipe VI, hijo de [Juan Carlos I de Borbón](#el frances), dinastía real de origen francés. Bruto por haber denunciado la corrupción de su padre durante la progresión de [la peste](#la peste). [Marco Junio Bruto](https://es.wikipedia.org/wiki/Marco_Junio_Bruto), tiranicida y asesino de Julio César, su supuesto padre. 
 
@@ -88,6 +92,8 @@
 
 ***Hijo del Conde***: Josep Borrell, Alto Representante de la Unión para Asuntos Exteriores y Política de Seguridad. Hace referencia a su apellido, Borrell, conocidos condes catalanes. Su conocida incontinencia verbal provocó que una empresa china cancelara la ayuda prevista, para evitar polémicas.
 
+<a name="hospicio de la misericordia"></a>***Hospicio de la Misericordia***: En la Crónica, hace referencia a las residencias de ancianos en los que se ha producido un gran número de fallecidos por la Peste. Parece que el número de ancianos fallecidos no se contabilizó correctamente y dió lugar a un baile macabro de cifras de víctimas de la Peste.
+
 ***Imperio del Centro***: Gobierno de España, en contraposición a la periferia.
 
 ***Indias del Norte***: USA.
@@ -100,30 +106,35 @@
 
 ***Kratos***: [La fuerza](https://es.wikipedia.org/wiki/Cratos) en griego antiguo y por contraposición al [Demos](#demos), la dictadura.
 
+<a name="cantante de la corte"></a>***La cantante de la Corte***: Se creé que hace referencia a la cantante Marta Sanchez, nacida en [la Corte](#la Corte) y procedente del grupo musical Olé Olé, de donde parece que hace referenci la frase 'la que vendrá de los toros. Durante la pandemia compuso una canción infumable trufada de lugares comunes (llamados [trufismos](https://es.wikipedia.org/wiki/Lugar_com%C3%BAn) en la Crónica). La frase 'se inspira ***con*** María' parece hacer referencia a haber compuesto la cantata bajo los efectos de la marihuana. Al parecer la compositora es reincidente en componer fumada himnos infumables.
+ 
 ***La Casa del César***: Referencia a la Moncloa, residencia oficial del Presidente del Gobierno Español y sede del Gobierno.
 
-***La Corte***: Madrid.
+<a name="la Corte"></a>***La Corte***: Madrid.
 
 <a name="la marca"></a>***La Marca***: Catalunya, antiguamente la [Marca Hispánica](https://es.wikipedia.org/wiki/Marca_Hisp%C3%A1nica) de los Francos y origen político de Catalunya.
 
 ***La Pasión***: Semana Santa.
 
-***La Peste***: La pandemia provocada por el coronavirus.
+<a name="la Peste"></a>***La Peste***: La pandemia provocada por el coronavirus.
 
-<a name="plebe"></a>***La Plebe***: El pueblo. Grupo social de la antigua Roma que no pertenecia a ninguna '''gens''' y por lo tanto no tenian ni ciudadania ni derechos.
+<a name="plebe"></a>***La Plebe***: El pueblo. Grupo social de la antigua Roma que no pertenecia a ninguna ***gens*** y por lo tanto no tenian ni ciudadania ni derechos.
 
 ***La República***: Francia. La Crónica hace referencia a que "el magistrado de la República no hará más preguntas", por la anulación de la segunda vuelta de las elecciones francesas.
 
 ***La Torre***: Referencia al President de [La Marca](#la marca), Quim Torra.
 
-<a name="la villa de tartessos"></a>***La villa de Tartessos***: Marbella, localidad situada en Andalucia, conocida en la Crónica como [Tartessos](#tartessos).
+<a name="la villa de tartessos"></a>***La villa de Tartessos***: Marbella, localidad situada en Andalucia, región conocida en la Crónica como [Tartessos](#tartessos).
 
 ***Lanzar la teja***: Se supone que hace referencia a la inveterada costumbre de arrojar tejas sobre los gobernantes y causarles la muerte, como en el caso de Ben Hur o Pirro.
+
+<a name="latinos"></a>***Latinos***: Referencia a los païses del Sur de Europa.
 
 ***Los Fugger***: Banqueros alemanes del siglo XIV, principales proveedores de crédito de los [Habsburgo](#habsburgo). En las profecías de la Crónica Pestorum se ha asociado a los Fugger con el BCE.
 
 ***Los Montañeses***: Referencia al País Vasco, pueblo que habita en las montañas.
 
+<a name="mos maiorum"></a>***Mos maiorum***: Locución latina con el significado de [la costumbre de los ancestros](https://es.wikipedia.org/wiki/Mos_maiorum). En la Crónica Pestorum hace referencia la continuidad de los privilegios de la oligarquia y los [patricios](#patricios).
 ***Morado***: Referencia al partido político Unidas Podemos cuya enseña és el morado.
 
 ***Naranja***: Referencia al partido político Ciudadanos cuya enseña és el naranja.
@@ -161,6 +172,8 @@
 <a name="tiberio"></a>***Tiberio***: Referencia a [Tiberio Sempronio Graco](https://es.wikipedia.org/wiki/Tiberio_Sempronio_Graco), tribuno de la plebe romana asesinado por los [patricios](#patricios).
 
 ***Tierra del gobernador forzudo***: Se creé que hace referencia a California, de la que Arnold Schwarzenegger, conocido actor musculoso, fué gobernador.
+
+<a name="tudescos"></a>***Tudescos***: Hace referencia a los habitantes del estado alemán de Sajonia y por extensión a los alemanes. 
 
 ***Usureros de la Tierra del Estaño***: Referencia al periódico de las [islas del estaño](#islas del estaño) Financial Times.
 
