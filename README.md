@@ -108,7 +108,7 @@
 
 ***La Peste***: La pandemia provocada por el coronavirus.
 
-<a name="plebe"</a>***La Plebe***: El pueblo. Grupo social de la antigua Roma que no pertenecia a ninguna '''gens''' y por lo tanto no tenian ni ciudadania ni derechos.
+<a name="plebe"></a>***La Plebe***: El pueblo. Grupo social de la antigua Roma que no pertenecia a ninguna '''gens''' y por lo tanto no tenian ni ciudadania ni derechos.
 
 ***La República***: Francia. La Crónica hace referencia a que "el magistrado de la República no hará más preguntas", por la anulación de la segunda vuelta de las elecciones francesas.
 
@@ -146,7 +146,7 @@
 
 ***Sempronia***: Referencia a la Ley Semproniana de [Tiberio](#tiberio) Graco, ley de reforma agraria para proporcionar tierras a la plebe romana. En la Crónica Pestorum [la plebe](#plebe) acepta volver al trabajo sin esperanza de reformas.
 
-<a name="senado"</a>***Senado***: Congreso de los diputados.
+<a name="senado"></a>***Senado***: Congreso de los diputados.
 
 ***Seres***: China. Los romanos conocían como [seres](https://es.wikipedia.org/wiki/Seres) a la China, el país de la seda.
 
@@ -156,7 +156,7 @@
 
 ***Tércios***: Cuerpos de ejercito de la Monarquia Hispánica
 
-<a name="tiberio"</a>***Tiberio***: Referencia a [Tiberio Sempronio Graco](https://es.wikipedia.org/wiki/Tiberio_Sempronio_Graco), tribuno de la plebe romana asesinado por los [patricios](#patricios).
+<a name="tiberio"></a>***Tiberio***: Referencia a [Tiberio Sempronio Graco](https://es.wikipedia.org/wiki/Tiberio_Sempronio_Graco), tribuno de la plebe romana asesinado por los [patricios](#patricios).
 
 ***Tierra del gobernador forzudo***: Se creé que hace referencia a California, de la que Arnold Schwarzenegger, conocido actor musculoso, fué gobernador.
 
