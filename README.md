@@ -26,7 +26,7 @@
 
 ***Casa de las Hierbas***: Casa dels Canonjes, residencia oficial del President de la Generalitat de Catalunya. Canonjes significa canónigos en catalán, una hierba comestible.
 
-***Cayo***: [Cayo Sempronio Graco](https://es.wikipedia.org/wiki/Cayo_Sempronio_Graco), hermano menor de [Tiberio](https://es.wikipedia.org/wiki/Tiberio_Sempronio_Graco) y a su vez [Tribuno de la plebe](https://es.wikipedia.org/wiki/Tribuno_de_la_plebe) romana, ambos asesinados por los patricios debido a su política reformista.
+***Cayo***: [Cayo Sempronio Graco](https://es.wikipedia.org/wiki/Cayo_Sempronio_Graco), hermano menor de [Tiberio](https://es.wikipedia.org/wiki/Tiberio_Sempronio_Graco) y a su vez [Tribuno de la plebe](https://es.wikipedia.org/wiki/Tribuno_de_la_plebe) romana, ambos asesinados por los [patricios](#patricios) debido a su política reformista.
 
 ***Centuriones***: Militares.
 
@@ -42,11 +42,11 @@
 
 ***Cuchillo de la Tierra del Estaño***: Referencia a la revista científica británica "The Lancet", el bisturí.
 
-***Demos***: el pueblo.
+<a name="demos"</a>***Demos***: Significado del 'el pueblo' en griego antiguo.
 
-***El Apóstol***: Otra referencia a el Presidente del Gobierno Español, Pedro.
+***El Apóstol***: Otra referencia al Presidente del Gobierno Español, Pedro.
 
-***El bardo del habla***: Referencia al escritor de "El Seños de los Anillos" Tolkien.
+***El bardo del habla***: Referencia al escritor de "El Seños de los Anillos" Tolkien. 'talk', hablar en inglés, se pronuncia 'tolk'.
 
 ***El bovino***: Referencia a la vacuna del coronavirus. La etimología de la palabra vacuna procede de las investigaciones sobre la viruela vacuna (Variolae Vaccinae) del médico inglés [Edward Jenner](https://es.wikipedia.org/wiki/Edward_Jenner) a finales del siglo XVIII.
 
@@ -56,7 +56,7 @@
 
 ***El del medio***: [Oriol Mitjà](https://es.wikipedia.org/wiki/Oriol_Mitj%C3%A0_Villar). Mitjà en catalán significa "mediano". Médico e investigados especializado en enfermedades infecciosas, asesor del Govern de la Generalitat muy crítico con las decisiones tomadas por el Cesar. Se le acusa de criticar por consideraciones políticas, debido a su afiliación independentista.
 
-***El Ganso***: José María Aznar, [the ansar](https://www.abc.es/internacional/abci-ansar-amigo-jose-maria-200304070300-172884_noticia.html), por [anserinae](https://es.wikipedia.org/wiki/Anserinae) subfamilia de aves a la que pertenecen los gansos. Se le vió paseando por la villa de Tartessos durante la pandemia, cuando se suponia que no podía haberse desplazado de la villa debido al encierro.
+***El Ganso***: José María Aznar, [the ansar](https://www.abc.es/internacional/abci-ansar-amigo-jose-maria-200304070300-172884_noticia.html), por [anserinae](https://es.wikipedia.org/wiki/Anserinae) subfamilia de aves a la que pertenecen los gansos. Se le vió paseando por la [villa de Tartessos](#villa de tartessos) durante la pandemia, cuando se suponia que no podía haberse desplazado de la [villa](#Madrid) debido al encierro.
 
 ***El Tenor***: Plácido Domingo, afectado por el coronavirus. En la Crónica Pestorun se relaciona su contagio como castigo divino por las acusaciones de acoso sexual en su contra realizadas poco antes de la pandemia.
 
@@ -64,7 +64,7 @@
 
 ***El Verde***: Referencia al partido político VOX cuyo color/marca és el verde (**V**iva **e**l **R**ey **d**e **E**spaña)
 
-<a href="encierro"></a>***Encierro***: Confinamiento.
+<a name="encierro"></a>***Encierro***: Confinamiento.
 
 ***Épica de Oriente***: Referencia al poema épico hindú del [Mahabharata](https://es.wikipedia.org/wiki/Mahabharata).
 
@@ -80,9 +80,9 @@
 
 ***Grémios***: La patronal CEOE.
 
-***Guardián de la Tierra del Estaño***: hace referencia al periódico británico "The Guardian".
+***Guardián de la Tierra del Estaño***: hace referencia al periódico de [las islas del estaño](#islas del estaño) "The Guardian".
 
-***Habsburgo***: Austria, por la dinastia reinante de la Casa de Austria.
+<a name="habsburgo"</a>***Habsburgo***: Austria, por la dinastia reinante de la Casa de Austria.
 
 ***Hijo del Conde***: Josep Borrell, Alto Representante de la Unión para Asuntos Exteriores y Política de Seguridad. Hace referencia a su apellido, Borrell, conocidos condes catalanes. Su conocida incontinencia verbal provocó que una empresa china cancelara la ayuda prevista, para evitar polémicas.
 
@@ -92,11 +92,11 @@
 
 ***Indias del Sur***: Latinoamérica.
 
-***Islas del estaño***: Islas británicas, antiguamente famosas por ser ricas en estaño, necesario para producir bronce en aleación con el cobre.
+<a name="islas del estaño"></a>***Islas del estaño***: Islas británicas, antiguamente famosas por ser ricas en estaño, necesario para producir bronce en aleación con el cobre.
 
-***Ítaca***: Isla del Mar Egeo, hogar de Odiseo y objetivo de su vuelta a casa. Referencia a la independencia de Catalunya hecha por Artur Mas.
+***Ítaca***: Isla del Mar Egeo, hogar de [Odiseo](https://es.wikipedia.org/wiki/Odiseo y objetivo de su vuelta a casa. Referencia a la independencia de Catalunya hecha por Artur Mas.
 
-***Kratos***: La fuerza y por contraposición al Demos, la dictadura.
+***Kratos***: [La fuerza](https://es.wikipedia.org/wiki/Cratos) en griego antiguo y por contraposición al [Demos](#demos), la dictadura.
 
 ***La Casa del César***: Referencia a la Moncloa, residencia oficial del Presidente del Gobierno Español y sede del Gobierno.
 
@@ -108,15 +108,17 @@
 
 ***La Peste***: La pandemia provocada por el coronavirus.
 
+<a name="plebe"</a>***La Plebe***: El pueblo. Grupo social de la antigua Roma que no pertenecia a ninguna '''gens''' y por lo tanto no tenian ni ciudadania ni derechos.
+
 ***La República***: Francia. La Crónica hace referencia a que "el magistrado de la República no hará más preguntas", por la anulación de la segunda vuelta de las elecciones francesas.
 
 ***La Torre***: Referencia al President de la Generalitat de Catalunya, Quim Torra.
 
-***La villa de Tartessos***: Marbella, localidad situada en Andalucia, conocida en la Crónica como Tartessos.
+<a name="la villa de tartessos"></a>***La villa de Tartessos***: Marbella, localidad situada en Andalucia, conocida en la Crónica como [Tartessos](#tartessos).
 
 ***Lanzar la teja***: Se supone que hace referencia a la inveterada costumbre de arrojar tejas sobre los gobernantes y causarles la muerte, como en el caso de Ben Hur o Pirro.
 
-***Los Fugger***: Banqueros alemanes del siglo XIV, principales proveedores de crédito de los Habsburgo. En las profecías de la Crónica Pestorum se ha asociado a los Fugger con el BCE.
+***Los Fugger***: Banqueros alemanes del siglo XIV, principales proveedores de crédito de los [Habsburgo](#habsburgo). En las profecías de la Crónica Pestorum se ha asociado a los Fugger con el BCE.
 
 ***Los Montañeses***: Referencia al País Vasco, pueblo que habita en las montañas.
 
@@ -126,15 +128,15 @@
 
 ***Oráculos***: Test del coronavirus.
 
-***Patricios***: Los poderosos. En la antigua Roma los patricios era la clase dirigente que componia el orden senatorial.
+<a name="patricios"></a>***Patricios***: Los poderosos. En la antigua Roma los patricios era la clase dirigente que componia el orden [senatorial](#senado).
 
-***Portus de mar***: puerto.
+***Portus de mar***: puerto, del latín [portus](https://es.wikipedia.org/wiki/Portus).
 
 ***Portus de San Pedro***: Aeropuerto. San Pedro recibe en el cielo a las almas.
 
-***Poveglia***: Isla veneciana donde los barcos pasaban el periodo de cuarentena.
+***Poveglia***: [Isla veneciana](https://es.wikipedia.org/wiki/Poveglia) donde los barcos pasaban el periodo de cuarentena.
 
-***Reyes de la Tierra del Incienso***: Monarquía Saudí de Arabia. Referencia a las comisiones pagadas al Rey emérito Juan Carlos I por los saudíes para la construcción del tren de alta velocidad a la Meca. Antiguamente, la Península Arábiga era el origen del incienso y la Mirra.
+***Reyes de la Tierra del Incienso***: Monarquía Saudí de Arabia. Referencia a las comisiones pagadas al Rey emérito Juan Carlos I por los saudíes para la construcción del tren de alta velocidad a la Meca. Antiguamente, la Península Arábiga era conocida como el origen del incienso y la Mirra.
 
 ***Rio de Enero***: Rio de Janeiro en Brásil.
 
@@ -142,9 +144,9 @@
 
 ***Ruedo de la verdad***: Ruedas de prensa.
 
-***Sempronia***: Referencia a la Ley Semproniana de Tiberio Graco, ley de reforma agraria para proporcionar tierras a la plebe romana.
+***Sempronia***: Referencia a la Ley Semproniana de [Tiberio](#tiberio) Graco, ley de reforma agraria para proporcionar tierras a la plebe romana. En la Crónica Pestorum [la plebe](#plebe) acepta volver al trabajo sin esperanza de reformas.
 
-***Senado***: Congreso de los diputados.
+<a name="senado"</a>***Senado***: Congreso de los diputados.
 
 ***Seres***: China. Los romanos conocían como [seres](https://es.wikipedia.org/wiki/Seres) a la China, el país de la seda.
 
@@ -154,11 +156,11 @@
 
 ***Tércios***: Cuerpos de ejercito de la Monarquia Hispánica
 
-***Tiberio***: Referencia a [Tiberio Sempronio Graco](https://es.wikipedia.org/wiki/Tiberio_Sempronio_Graco), tribuno de las plebe romana asesinado por los patricios.
+<a name="tiberio"</a>***Tiberio***: Referencia a [Tiberio Sempronio Graco](https://es.wikipedia.org/wiki/Tiberio_Sempronio_Graco), tribuno de la plebe romana asesinado por los [patricios](#patricios).
 
 ***Tierra del gobernador forzudo***: Se creé que hace referencia a California, de la que Arnold Schwarzenegger, conocido actor musculoso, fué gobernador.
 
-***Usureros de la Tierra del Estaño***: Referencia al periódico británico Financial Times.
+***Usureros de la Tierra del Estaño***: Referencia al periódico de las [islas del estaño](#islas del estaño) Financial Times.
 
 ***Usureros***: Banqueros, la banca y por extensión la economía.
 
