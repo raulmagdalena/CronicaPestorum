@@ -8,13 +8,13 @@
 
 **Antígona**: Personaje de la tragedia de Sófocles [Antígona](https://es.wikipedia.org/wiki/Ant%C3%ADgona) que no obedece a [Creonte](https://es.wikipedia.org/wiki/Creonte) rey de [Tebas](https://es.wikipedia.org/wiki/Tebas_(Grecia)). Personaje asociado a Quim Torra, President de la Generalitat de Catalunya que [no firmó el comunicado conjunto](https://www.europapress.es/nacional/noticia-sanchez-firma-presidentes-autonomicos-torra-compromiso-coordinacion-20200315201939.html) durante la pandemia. En la [tragedia](https://es.wikipedia.org/wiki/Ant%C3%ADgona_(S%C3%B3focles)), Antígona desobedece la ley al enterrar a su hermano Polinices. En la cultura occidental, Antígona ha representado el papel de la desobediencia frente a la ley y el poderoso aun a riesgo de la muerte. 
 
-**Arjuna**: Uno de los héroes del poema épico hindú [Mahabharata](https://es.wikipedia.org/wiki/Mahabh%C3%A1rata). [Arjuna](https://es.wikipedia.org/wiki/Arjuna) debe acudir a la guerra cumpliendo su deber como gobernante. En la Crónica Pestorum el papel de Arjuna puede asociarse al presidente del Gobierno Español que, como Arjuna, debe cumplir su papel como gobernante sin tener en cuenta el coste personal. Arjuna en un principio duda, ***Valdrá la pena, se pregunta, aniquilar a su propia gente por el bien del reino?*** En esta tesitura pide consejo a [Krisna](https://es.wikipedia.org/wiki/Krishna) que para impresionarle y convencerle de cumplir su deber se transforma y le dice "Ahora me he convertido en la Muerte, la destructora de mundos". [Robert Oppenheimer](https://es.wikiquote.org/wiki/Robert_Oppenheimer) citó estas palabras tras el ensayo de la bomba atómica en Alamogordo, ya que considerabá haber cumplido con su deber, como Arjuna, pese sus preferencias morales.
+<a name="arjuna"></a>**Arjuna**: Uno de los héroes del poema épico hindú [Mahabharata](https://es.wikipedia.org/wiki/Mahabh%C3%A1rata). [Arjuna](https://es.wikipedia.org/wiki/Arjuna) debe acudir a la guerra cumpliendo su deber como gobernante. En la Crónica Pestorum el papel de Arjuna puede asociarse al presidente del Gobierno Español que, como Arjuna, debe cumplir su papel como gobernante sin tener en cuenta el coste personal. Arjuna en un principio duda, ***Valdrá la pena, se pregunta, aniquilar a su propia gente por el bien del reino?*** En esta tesitura pide consejo a [Krisna](https://es.wikipedia.org/wiki/Krishna) que para impresionarle y convencerle de cumplir su deber se transforma y le dice "Ahora me he convertido en la Muerte, la destructora de mundos". [Robert Oppenheimer](https://es.wikiquote.org/wiki/Robert_Oppenheimer) citó estas palabras tras el ensayo de la bomba atómica en Alamogordo, ya que considerabá haber cumplido con su deber, como Arjuna, pese sus preferencias morales.
 
 ***Azul***: Referencia al partido político PP cuyo color/marca és el azul.
 
 ***Bando***: Ley.
 
-***Bruto, El hijo del francés***: Felipe VI, hijo de Juan Carlos I de Borbón, dinastía real de origen francés. Bruto por haber denunciado la corrupción de su padre durante la progresión de la pandemia. [Marco Junio Bruto](https://es.wikipedia.org/wiki/Marco_Junio_Bruto), tiranicida y asesino de Julio Cesar, su supuesto padre. 
+***Bruto, El hijo del francés***: Felipe VI, hijo de [Juan Carlos I de Borbón](#el frances), dinastía real de origen francés. Bruto por haber denunciado la corrupción de su padre durante la progresión de la pandemia. [Marco Junio Bruto](https://es.wikipedia.org/wiki/Marco_Junio_Bruto), tiranicida y asesino de Julio Cesar, su supuesto padre. 
 
 ***Caída de la Peste***: Descenso del número de contagios, lo que se ha venido a llamar "aplanar la curva".
 
@@ -42,7 +42,7 @@
 
 ***Cuchillo de la Tierra del Estaño***: Referencia a la revista científica británica "The Lancet", el bisturí.
 
-<a name="demos"</a>***Demos***: Significado del 'el pueblo' en griego antiguo.
+<a name="demos"></a>***Demos***: Significado del 'el pueblo' en griego antiguo.
 
 ***El Apóstol***: Otra referencia al Presidente del Gobierno Español, Pedro.
 
@@ -56,6 +56,8 @@
 
 ***El del medio***: [Oriol Mitjà](https://es.wikipedia.org/wiki/Oriol_Mitj%C3%A0_Villar). Mitjà en catalán significa "mediano". Médico e investigados especializado en enfermedades infecciosas, asesor del Govern de la Generalitat muy crítico con las decisiones tomadas por el Cesar. Se le acusa de criticar por consideraciones políticas, debido a su afiliación independentista.
 
+<a name="el frances"></a>***El francés***: el rei emérito Juan Carlos I de Borbón, dinastia de origen francés.
+
 ***El Ganso***: José María Aznar, [the ansar](https://www.abc.es/internacional/abci-ansar-amigo-jose-maria-200304070300-172884_noticia.html), por [anserinae](https://es.wikipedia.org/wiki/Anserinae) subfamilia de aves a la que pertenecen los gansos. Se le vió paseando por la [villa de Tartessos](#villa de tartessos) durante la pandemia, cuando se suponia que no podía haberse desplazado de la [villa](#Madrid) debido al encierro.
 
 ***El Tenor***: Plácido Domingo, afectado por el coronavirus. En la Crónica Pestorun se relaciona su contagio como castigo divino por las acusaciones de acoso sexual en su contra realizadas poco antes de la pandemia.
@@ -66,7 +68,7 @@
 
 <a name="encierro"></a>***Encierro***: Confinamiento.
 
-***Épica de Oriente***: Referencia al poema épico hindú del [Mahabharata](https://es.wikipedia.org/wiki/Mahabharata).
+***Épica de Oriente***: Referencia al poema épico hindú del [Mahabharata](https://es.wikipedia.org/wiki/Mahabharata) en el que [Arjuna](#arjuna) es uno de los héroes.
 
 ***Escudos y armaduras***: Elementos de protección para el contagio.
 
@@ -82,7 +84,7 @@
 
 ***Guardián de la Tierra del Estaño***: hace referencia al periódico de [las islas del estaño](#islas del estaño) "The Guardian".
 
-<a name="habsburgo"</a>***Habsburgo***: Austria, por la dinastia reinante de la Casa de Austria.
+<a name="habsburgo"></a>***Habsburgo***: Austria, por la dinastia reinante de la Casa de Austria.
 
 ***Hijo del Conde***: Josep Borrell, Alto Representante de la Unión para Asuntos Exteriores y Política de Seguridad. Hace referencia a su apellido, Borrell, conocidos condes catalanes. Su conocida incontinencia verbal provocó que una empresa china cancelara la ayuda prevista, para evitar polémicas.
 
