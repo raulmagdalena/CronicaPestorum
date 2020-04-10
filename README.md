@@ -1,20 +1,20 @@
 **Glosario y Dramatis Personae de la Crónica Pestorum de Nostradamus**. [Crónica Pestorum](https://twitter.com/CronicaPestorum)
 
-**Abrir los caminos**: Se refiere al cese del [encierro](#encierro) proclamado por la pandemia del coronavirus.
+<a name="caminos"></a>**Apertura y cierre de los caminos**: Se refiere al [encierro](#encierro) proclamado por [la peste](#la peste) del coronavirus.
 
 **Alguacil**: policia.
 
 **Amarillo**: Referencia al independentismo catalán que se identifica con este color.
 
-**Antígona**: Personaje de la tragedia de Sófocles [Antígona](https://es.wikipedia.org/wiki/Ant%C3%ADgona) que no obedece a [Creonte](https://es.wikipedia.org/wiki/Creonte) rey de [Tebas](https://es.wikipedia.org/wiki/Tebas_(Grecia)). Personaje asociado a Quim Torra, President de la Generalitat de Catalunya que [no firmó el comunicado conjunto](https://www.europapress.es/nacional/noticia-sanchez-firma-presidentes-autonomicos-torra-compromiso-coordinacion-20200315201939.html) durante la pandemia. En la [tragedia](https://es.wikipedia.org/wiki/Ant%C3%ADgona_(S%C3%B3focles)), Antígona desobedece la ley al enterrar a su hermano Polinices. En la cultura occidental, Antígona ha representado el papel de la desobediencia frente a la ley y el poderoso aun a riesgo de la muerte. 
+**Antígona**: Personaje de la tragedia de Sófocles [Antígona](https://es.wikipedia.org/wiki/Ant%C3%ADgona) que no obedece a [Creonte](https://es.wikipedia.org/wiki/Creonte) rey de [Tebas](https://es.wikipedia.org/wiki/Tebas_(Grecia)). Personaje asociado a Quim Torra, President de la Generalitat de Catalunya que [no firmó el comunicado conjunto](https://www.europapress.es/nacional/noticia-sanchez-firma-presidentes-autonomicos-torra-compromiso-coordinacion-20200315201939.html) durante [la peste](#la peste). En la [tragedia](https://es.wikipedia.org/wiki/Ant%C3%ADgona_(S%C3%B3focles)), Antígona desobedece la ley al enterrar a su hermano Polinices. En la cultura occidental, Antígona ha representado el papel de la desobediencia frente a la ley y el poderoso aun a riesgo de la muerte. 
 
 <a name="arjuna"></a>**Arjuna**: Uno de los héroes del poema épico hindú [Mahabharata](https://es.wikipedia.org/wiki/Mahabh%C3%A1rata). [Arjuna](https://es.wikipedia.org/wiki/Arjuna) debe acudir a la guerra cumpliendo su deber como gobernante. En la Crónica Pestorum el papel de Arjuna puede asociarse al presidente del Gobierno Español que, como Arjuna, debe cumplir su papel como gobernante sin tener en cuenta el coste personal. Arjuna en un principio duda, ***Valdrá la pena, se pregunta, aniquilar a su propia gente por el bien del reino?*** En esta tesitura pide consejo a [Krisna](https://es.wikipedia.org/wiki/Krishna) que para impresionarle y convencerle de cumplir su deber se transforma y le dice "Ahora me he convertido en la Muerte, la destructora de mundos". [Robert Oppenheimer](https://es.wikiquote.org/wiki/Robert_Oppenheimer) citó estas palabras tras el ensayo de la bomba atómica en Alamogordo, ya que considerabá haber cumplido con su deber, como Arjuna, pese sus preferencias morales.
 
-***Azul***: Referencia al partido político PP cuyo color/marca és el azul.
+***Azul***: Referencia al partido político PP cuya enseña és el azul.
 
 ***Bando***: Ley.
 
-***Bruto, El hijo del francés***: Felipe VI, hijo de [Juan Carlos I de Borbón](#el frances), dinastía real de origen francés. Bruto por haber denunciado la corrupción de su padre durante la progresión de la pandemia. [Marco Junio Bruto](https://es.wikipedia.org/wiki/Marco_Junio_Bruto), tiranicida y asesino de Julio Cesar, su supuesto padre. 
+***Bruto, El hijo del francés***: Felipe VI, hijo de [Juan Carlos I de Borbón](#el frances), dinastía real de origen francés. Bruto por haber denunciado la corrupción de su padre durante la progresión de [la peste](#la peste). [Marco Junio Bruto](https://es.wikipedia.org/wiki/Marco_Junio_Bruto), tiranicida y asesino de Julio César, su supuesto padre. 
 
 ***Caída de la Peste***: Descenso del número de contagios, lo que se ha venido a llamar "aplanar la curva".
 
@@ -30,7 +30,7 @@
 
 ***Centuriones***: Militares.
 
-***César***: Pedro Sánchez Castejón, presidente del Gobierno de España.
+<a name="cesar"></a>***César***: Pedro Sánchez Castejón, presidente del Gobierno de España.
 
 ***Conjura de Octubre***: Defenestración de Sánchez Castejón como Secretario General del PSOE el 1 de Octubre del 2016 por los barones del partido.
 
@@ -52,19 +52,19 @@
 
 ***El Danzarín de Gerunda***: [Miquel Iceta](https://es.wikipedia.org/wiki/Miquel_Iceta), líder del PSC que fue alcalde de Girona. Recordado por bailar en el escenario político. En catalunya también se le conoce como la 'mandonguilla balleruga', la 'albondiga danzarina'. Miquel Iceta se muestra muy crítico con la gestión del President de la Generalitat, pese a que esta a sido despojada de sus competencias en materia de salud.
 
-***El de la Isla***: Referencia al Ministro de Sanidad [Salvador Illa](https://es.wikipedia.org/wiki/Salvador_Illa), 'isla' en catalán, durante la pandemia. No tiene conocimientos en materia de salud y su función en un ministerio vacio, con todas sus competencias transferidas a las autonomias, era la de buscar una solución pactada con el independentismo. 
+***El de la Isla***: Referencia al Ministro de Sanidad [Salvador Illa](https://es.wikipedia.org/wiki/Salvador_Illa), 'isla' en catalán, durante [la peste](#la peste). No tiene conocimientos en materia de salud y su función en un ministerio vacio, con todas sus competencias transferidas a las autonomias, era la de buscar una solución pactada con el independentismo. 
 
-***El del medio***: [Oriol Mitjà](https://es.wikipedia.org/wiki/Oriol_Mitj%C3%A0_Villar). Mitjà en catalán significa "mediano". Médico e investigados especializado en enfermedades infecciosas, asesor del Govern de la Generalitat muy crítico con las decisiones tomadas por el Cesar. Se le acusa de criticar por consideraciones políticas, debido a su afiliación independentista.
+***El del medio***: [Oriol Mitjà](https://es.wikipedia.org/wiki/Oriol_Mitj%C3%A0_Villar). Mitjà en catalán significa "mediano". Médico e investigados especializado en enfermedades infecciosas, asesor del Govern de la Generalitat muy crítico con las decisiones tomadas por el César. Se le acusa de criticar por consideraciones políticas, debido a su afiliación independentista.
 
 <a name="el frances"></a>***El francés***: el rei emérito Juan Carlos I de Borbón, dinastia de origen francés.
 
-***El Ganso***: José María Aznar, [the ansar](https://www.abc.es/internacional/abci-ansar-amigo-jose-maria-200304070300-172884_noticia.html), por [anserinae](https://es.wikipedia.org/wiki/Anserinae) subfamilia de aves a la que pertenecen los gansos. Se le vió paseando por la [villa de Tartessos](#villa de tartessos) durante la pandemia, cuando se suponia que no podía haberse desplazado de la [villa](#Madrid) debido al encierro.
+***El Ganso***: José María Aznar, [the ansar](https://www.abc.es/internacional/abci-ansar-amigo-jose-maria-200304070300-172884_noticia.html), por [anserinae](https://es.wikipedia.org/wiki/Anserinae) subfamilia de aves a la que pertenecen los gansos. Se le vió paseando por la [villa de Tartessos](#la villa de tartessos) durante [la peste](#la peste), cuando se suponia que no podía haberse desplazado de la [villa](#Madrid) debido al encierro.
 
-***El Tenor***: Plácido Domingo, afectado por el coronavirus. En la Crónica Pestorun se relaciona su contagio como castigo divino por las acusaciones de acoso sexual en su contra realizadas poco antes de la pandemia.
+***El Tenor***: Plácido Domingo, afectado por el coronavirus. En la Crónica Pestorun se relaciona su contagio como castigo divino por las acusaciones de acoso sexual en su contra realizadas poco antes de [la peste](#la peste).
 
 ***El trovador, el bardo y el pintor***: Hace referencia a [Luis Eduardo Aute](https://es.wikipedia.org/wiki/Luis_Eduardo_Aute), cantante, pintor y poeta, muerto por el coronavirus.
 
-***El Verde***: Referencia al partido político VOX cuyo color/marca és el verde (**V**iva **e**l **R**ey **d**e **E**spaña)
+***El Verde***: Referencia al partido político VOX cuya enseña és el verde (**V**iva **e**l **R**ey **d**e **E**spaña)
 
 <a name="encierro"></a>***Encierro***: Confinamiento.
 
@@ -74,7 +74,7 @@
 
 ***Estrellas que orbitan***: Se creé que hace referencia a los satélites que geolocalizan los teléfono móbiles durante el confinamiento.
 
-***Fuente de la oveja***: Referencia a la [Fuenteoveuna](https://es.wikipedia.org/wiki/Fuenteovejuna) de la novela de Lope de Vega. En la cultura popular se suele decir "todos a una como en Fuenteovejuna". Se creé que en el contexto de la pandemias del coronavirus hace referencia a la propuesta de [Pacto de Toledo](https://es.wikipedia.org/wiki/Pacto_de_Toledo) hecha por el Presidente del Gobierno.
+***Fuente de la oveja***: Referencia a la [Fuenteoveuna](https://es.wikipedia.org/wiki/Fuenteovejuna) de la novela de Lope de Vega. En la cultura popular se suele decir "todos a una como en Fuenteovejuna". Se creé que en el contexto de [la peste](#la peste) del coronavirus hace referencia a la propuesta de [Pacto de Toledo](https://es.wikipedia.org/wiki/Pacto_de_Toledo) hecha por el Presidente del Gobierno.
 
 ***Galenos***: Médicos, por el famoso médico griego [Galeno de Pérgamo](https://es.wikipedia.org/wiki/Galeno).
 
@@ -104,7 +104,7 @@
 
 ***La Corte***: Madrid.
 
-***La Marca***: Catalunya, antiguamente la Marca Hispánica de los Francos y origen político de Catalunya.
+<a name="la marca"></a>***La Marca***: Catalunya, antiguamente la [Marca Hispánica](https://es.wikipedia.org/wiki/Marca_Hisp%C3%A1nica) de los Francos y origen político de Catalunya.
 
 ***La Pasión***: Semana Santa.
 
@@ -114,7 +114,7 @@
 
 ***La República***: Francia. La Crónica hace referencia a que "el magistrado de la República no hará más preguntas", por la anulación de la segunda vuelta de las elecciones francesas.
 
-***La Torre***: Referencia al President de la Generalitat de Catalunya, Quim Torra.
+***La Torre***: Referencia al President de [La Marca](#la marca), Quim Torra.
 
 <a name="la villa de tartessos"></a>***La villa de Tartessos***: Marbella, localidad situada en Andalucia, conocida en la Crónica como [Tartessos](#tartessos).
 
@@ -124,9 +124,9 @@
 
 ***Los Montañeses***: Referencia al País Vasco, pueblo que habita en las montañas.
 
-***Morado***: Referencia al partido político Unidas Podemos cuyo color/marca és el morado.
+***Morado***: Referencia al partido político Unidas Podemos cuya enseña és el morado.
 
-***Naranja***: Referencia al partido político Ciudadanos cuyo color/marca és el naranja.
+***Naranja***: Referencia al partido político Ciudadanos cuya enseña és el naranja.
 
 ***Oráculos***: Test del coronavirus.
 
@@ -142,7 +142,7 @@
 
 ***Rio de Enero***: Rio de Janeiro en Brásil.
 
-***Rojo***: Referencia al partido político PSOE cuyo color/marca és el rojo.
+***Rojo***: Referencia al partido político PSOE cuya enseña és el rojo.
 
 ***Ruedo de la verdad***: Ruedas de prensa.
 
@@ -154,9 +154,9 @@
 
 ***Taifas***: Autonomías. Antiguos reinos arabes de Al-Andalus, en los que se dividió el califato Omeya. 
 
-***Tartessos***: Andalucía. [Tartessos](https://es.wikipedia.org/wiki/Tartessos) es un reino legendario que los griegos situaban en el sur de la península Ibérica.
+<a name="tartessos"></a>***Tartessos***: Andalucía. [Tartessos](https://es.wikipedia.org/wiki/Tartessos) es un reino legendario que los griegos situaban en el sur de la península Ibérica.
 
-***Tércios***: Cuerpos de ejercito de la Monarquia Hispánica
+***Tércios***: Cuerpos de ejercito de la Monarquia Hispánica.
 
 <a name="tiberio"></a>***Tiberio***: Referencia a [Tiberio Sempronio Graco](https://es.wikipedia.org/wiki/Tiberio_Sempronio_Graco), tribuno de la plebe romana asesinado por los [patricios](#patricios).
 
