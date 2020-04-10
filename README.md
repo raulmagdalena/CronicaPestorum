@@ -1,4 +1,4 @@
-##***Glosario y Dramatis Personae de la Crónica Pestorum de Nostradamus***.
+##Glosario y Dramatis Personae de la Crónica Pestorum de Nostradamus.
 
 **Abrir los caminos**: Se refiere al cese del confinamiento proclamado por la pandemia del coronavirus.
 
