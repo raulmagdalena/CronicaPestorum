@@ -64,7 +64,7 @@
 
 ***El Verde***: Referencia al partido político VOX cuyo color/marca és el verde (**V**iva **e**l **R**ey **d**e **E**spaña)
 
-<a href="encierro">***Encierro***: Confinamiento.
+<a href="encierro">***Encierro***</a>: Confinamiento.
 
 ***Épica de Oriente***: Referencia al poema épico hindú del [Mahabharata](https://es.wikipedia.org/wiki/Mahabharata).
 
