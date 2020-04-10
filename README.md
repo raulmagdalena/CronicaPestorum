@@ -1,6 +1,6 @@
 **Glosario y Dramatis Personae de la Crónica Pestorum de Nostradamus**. [Crónica Pestorum](https://twitter.com/CronicaPestorum)
 
-**Abrir los caminos**: Se refiere al cese del confinamiento proclamado por la pandemia del coronavirus.
+**Abrir los caminos**: Se refiere al cese del [encierro](#encierro) proclamado por la pandemia del coronavirus.
 
 **Alguacil**: policia.
 
@@ -64,7 +64,7 @@
 
 ***El Verde***: Referencia al partido político VOX cuyo color/marca és el verde (**V**iva **e**l **R**ey **d**e **E**spaña)
 
-***Encierro***: Confinamiento.
+<a href="encierro">***Encierro***: Confinamiento.
 
 ***Épica de Oriente***: Referencia al poema épico hindú del [Mahabharata](https://es.wikipedia.org/wiki/Mahabharata).
 
