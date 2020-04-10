@@ -142,7 +142,7 @@ Rojo: Referencia al partido político PSOE cuyo color/marca és el rojo.
 
 Ruedo de la verdad: Ruedas de prensa.
 
-Sempronia: Referencia a la Ley Semproniana, ley de reforma agraria para proporcionar tierras a la plebe romana.
+Sempronia: Referencia a la Ley Semproniana de Tiberio Graco, ley de reforma agraria para proporcionar tierras a la plebe romana.
 
 Senado: Congreso de los diputados.
 
