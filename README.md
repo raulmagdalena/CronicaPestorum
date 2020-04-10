@@ -54,13 +54,13 @@
 
 ***El de la Isla***: Referencia al Ministro de Sanidad [Salvador Illa](https://es.wikipedia.org/wiki/Salvador_Illa), 'isla' en catalán, durante la pandemia. No tiene conocimientos en materia de salud y su función en un ministerio vacio, con todas sus competencias transferidas a las autonomias, era la de buscar una solución pactada con el independentismo. 
 
-***El del medio***: [Oriol Mitjà](https://es.wikipedia.org/wiki/Oriol_Mitj%C3%A0_Villar). Mitjà en catalán significa "mediano". Médico e investigados especializado en enfermedades infecciosas, asesor del Govern de la Generalitat muy crítico con las decisiones tomadas por el Cesar. 
+***El del medio***: [Oriol Mitjà](https://es.wikipedia.org/wiki/Oriol_Mitj%C3%A0_Villar). Mitjà en catalán significa "mediano". Médico e investigados especializado en enfermedades infecciosas, asesor del Govern de la Generalitat muy crítico con las decisiones tomadas por el Cesar. Se le acusa de criticar por consideraciones políticas, debido a su afiliación independentista.
 
-***El Ganso***: José María Aznar, the ansar.
+***El Ganso***: José María Aznar, [the ansar](https://www.abc.es/internacional/abci-ansar-amigo-jose-maria-200304070300-172884_noticia.html), por [anserinae](https://es.wikipedia.org/wiki/Anserinae) subfamilia de aves a la que pertenecen los gansos. Se le vió paseando por la villa de Tartessos durante la pandemia, cuando se suponia que no podía haberse desplazado de la villa debido al encierro.
 
-***El Tenor***: Plácido Domingo.
+***El Tenor***: Plácido Domingo, afectado por el coronavirus. En la Crónica Pestorun se relaciona su contagio como castigo divino por las acusaciones de acoso sexual en su contra realizadas poco antes de la pandemia.
 
-***El trovador, el bardo y el pintor***: Hace referencia a Luis Eduardo Aute, cantante, pintor y poeta, muerto por el coronavirus.
+***El trovador, el bardo y el pintor***: Hace referencia a [Luis Eduardo Aute](https://es.wikipedia.org/wiki/Luis_Eduardo_Aute), cantante, pintor y poeta, muerto por el coronavirus.
 
 ***El Verde***: Referencia al partido político VOX cuyo color/marca és el verde (**V**iva **e**l **R**ey **d**e **E**spaña)
 
