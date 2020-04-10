@@ -74,92 +74,92 @@
 
 ***Fuente de la oveja***: Referencia a la [Fuenteoveuna](https://es.wikipedia.org/wiki/Fuenteovejuna) de la novela de Lope de Vega. En la cultura popular se suele decir "todos a una como en Fuenteovejuna". Se creé que en el contexto de la pandemias del coronavirus hace referencia a la propuesta de [Pacto de Toledo](https://es.wikipedia.org/wiki/Pacto_de_Toledo) hecha por el Presidente del Gobierno.
 
-***Galenos***: Médicos.
+***Galenos***: Médicos, por el famoso médico griego [Galeno de Pérgamo](https://es.wikipedia.org/wiki/Galeno).
 
-Gigante de Baetulo: Xavier García Albiol, miembro del PP de Catalunya, ex alcalde de Badalona, la Baetulo romana. Ex jugador de baloncesto del Juventut de Badalona.
+***Gigante de Baetulo***: Xavier García Albiol, miembro del PP de Catalunya, ex alcalde de Badalona, la Baetulo romana. Ex jugador de baloncesto del Juventut de Badalona.
 
-Grémios: La patronal CEOE.
+***Grémios***: La patronal CEOE.
 
-Guardián de la Tierra del Estaño: hace referencia al periódico británico "The Guardian".
+***Guardián de la Tierra del Estaño***: hace referencia al periódico británico "The Guardian".
 
-Habsburgo: Austria.
+***Habsburgo***: Austria, por la dinastia reinante de la Casa de Austria.
 
-Hijo del Conde: Josep Borrell, Alto comisariado de la Unión Europea para exteriores. Hace referencia a su catalán apellido, Borrell, nombre muy usado por los Condes de la Casa de Barcelona.
+***Hijo del Conde***: Josep Borrell, Alto Representante de la Unión para Asuntos Exteriores y Política de Seguridad. Hace referencia a su apellido, Borrell, conocidos condes catalanes. Su conocida incontinencia verbal provocó que una empresa china cancelara la ayuda prevista, para evitar polémicas.
 
-Imperio del Centro: Gobierno de España, en contraposición a la periferia.
+***Imperio del Centro***: Gobierno de España, en contraposición a la periferia.
 
-Indias del Norte: USA.
+***Indias del Norte***: USA.
 
-Indias del Sur: Latinoamérica.
+***Indias del Sur***: Latinoamérica.
 
-Islas del estaño: Islas británicas, antiguamente famosas por ser ricas en estaño, necesario para producir bronce en aleación con el cobre.
+***Islas del estaño***: Islas británicas, antiguamente famosas por ser ricas en estaño, necesario para producir bronce en aleación con el cobre.
 
-Ítaca: Isla del Mar Egeo, hogar de Odiseo y objetivo de su vuelta a casa. Referencia a la independencia de Catalunya hecha por Artur Mas.
+***Ítaca***: Isla del Mar Egeo, hogar de Odiseo y objetivo de su vuelta a casa. Referencia a la independencia de Catalunya hecha por Artur Mas.
 
-Kratos: La fuerza y por contraposición al Demos, la dictadura.
+***Kratos***: La fuerza y por contraposición al Demos, la dictadura.
 
-La Casa del César: Referencia a la Moncloa, residencia oficial del Presidente del Gobierno Español y sede del Gobierno.
+***La Casa del César***: Referencia a la Moncloa, residencia oficial del Presidente del Gobierno Español y sede del Gobierno.
 
-La Corte: Madrid.
+***La Corte***: Madrid.
 
-La Marca: Catalunya, antiguamente la Marca Hispánica de los Francos y origen de Catalunya.
+***La Marca***: Catalunya, antiguamente la Marca Hispánica de los Francos y origen político de Catalunya.
 
-La Pasión: Semana Santa.
+***La Pasión***: Semana Santa.
 
-La Peste: La pandemia provocada por el coronavirus.
+***La Peste***: La pandemia provocada por el coronavirus.
 
-La República: Francia. La Crónica hace referencia a que "el magistrado de la República no hará más preguntas", por la anulación de la segunda vuelta de las elecciones francesas.
+***La República***: Francia. La Crónica hace referencia a que "el magistrado de la República no hará más preguntas", por la anulación de la segunda vuelta de las elecciones francesas.
 
-La Torre: Referencia al President de la Generalitat de Catalunya, Quim Torra.
+***La Torre***: Referencia al President de la Generalitat de Catalunya, Quim Torra.
 
-La villa de Tartessos: Marbella.
+***La villa de Tartessos***: Marbella, localidad situada en Andalucia, conocida en la Crónica como Tartessos.
 
-Lanzar la teja: Se supone que hace referencia a la inveterada costumbre de arrojar tejas sobre los gobernantes y causarles la muerte, como en el caso de Ben Hur o Pirro.
+***Lanzar la teja***: Se supone que hace referencia a la inveterada costumbre de arrojar tejas sobre los gobernantes y causarles la muerte, como en el caso de Ben Hur o Pirro.
 
-Los Fugger: Banqueros alemanes del siglo XIV, principales proveedores de crédito de los Habsburgo. En las profecías de la Crónica Pestorum se ha asociado a los Fugger con el BCE.
+***Los Fugger***: Banqueros alemanes del siglo XIV, principales proveedores de crédito de los Habsburgo. En las profecías de la Crónica Pestorum se ha asociado a los Fugger con el BCE.
 
-Los Montañeses: País Vasco.
+***Los Montañeses***: Referencia al País Vasco, pueblo que habita en las montañas.
 
-Morado: Referencia al partido político Unidas Podemos cuyo color/marca és el morado.
+***Morado***: Referencia al partido político Unidas Podemos cuyo color/marca és el morado.
 
-Naranja: Referencia al partido político Ciudadanos cuyo color/marca és el naranja.
+***Naranja***: Referencia al partido político Ciudadanos cuyo color/marca és el naranja.
 
-Oráculos: Test del coronavirus.
+***Oráculos***: Test del coronavirus.
 
-Patricios: Los poderosos.
+***Patricios***: Los poderosos. En la antigua Roma los patricios era la clase dirigente que componia el orden senatorial.
 
-Portus de mar: puerto.
+***Portus de mar***: puerto.
 
-Portus de San Pedro: Aeropuerto. San Pedro recibe en el cielo a las almas.
+***Portus de San Pedro***: Aeropuerto. San Pedro recibe en el cielo a las almas.
 
-Poveglia: Isla veneciana donde los barcos pasaban el periodo de cuarentena.
+***Poveglia***: Isla veneciana donde los barcos pasaban el periodo de cuarentena.
 
-Reyes de la Tierra del Incienso: Monarquía Saudí de Arabia. Referencia a las comisiones pagadas al Rey emérito Juan Carlos I por los saudíes para la construcción del tren de alta velocidad a la Meca. Antiguamente, la Península Arábiga era el origen del incienso y la Mirra.
+***Reyes de la Tierra del Incienso***: Monarquía Saudí de Arabia. Referencia a las comisiones pagadas al Rey emérito Juan Carlos I por los saudíes para la construcción del tren de alta velocidad a la Meca. Antiguamente, la Península Arábiga era el origen del incienso y la Mirra.
 
-Rio de Enero: Rio de Janeiro en Brásil.
+***Rio de Enero***: Rio de Janeiro en Brásil.
 
-Rojo: Referencia al partido político PSOE cuyo color/marca és el rojo.
+***Rojo***: Referencia al partido político PSOE cuyo color/marca és el rojo.
 
-Ruedo de la verdad: Ruedas de prensa.
+***Ruedo de la verdad***: Ruedas de prensa.
 
-Sempronia: Referencia a la Ley Semproniana de Tiberio Graco, ley de reforma agraria para proporcionar tierras a la plebe romana.
+***Sempronia***: Referencia a la Ley Semproniana de Tiberio Graco, ley de reforma agraria para proporcionar tierras a la plebe romana.
 
-Senado: Congreso de los diputados.
+***Senado***: Congreso de los diputados.
 
-Seres: China. Los romanos conocían como seres a la China, el país de la seda.
+***Seres***: China. Los romanos conocían como [seres](https://es.wikipedia.org/wiki/Seres) a la China, el país de la seda.
 
-Taifas: Autonomías. Antiguos reinos arabes de Al-Andalus, en los que se dividió el califato Omeya. 
+***Taifas***: Autonomías. Antiguos reinos arabes de Al-Andalus, en los que se dividió el califato Omeya. 
 
-Tartessos: Andalucía. Tartessos es un reino legendario que los griegos situaban en el sur de la península Ibérica.
+***Tartessos***: Andalucía. [Tartessos](https://es.wikipedia.org/wiki/Tartessos) es un reino legendario que los griegos situaban en el sur de la península Ibérica.
 
-Tércios: Ejército.
+***Tércios***: Cuerpos de ejercito de la Monarquia Hispánica
 
-Tiberio: Referencia a Tiberio Sempronio Graco, tribuno de las plebe romana asesinado por los patricios.
+***Tiberio***: Referencia a [Tiberio Sempronio Graco](https://es.wikipedia.org/wiki/Tiberio_Sempronio_Graco), tribuno de las plebe romana asesinado por los patricios.
 
-Tierra del gobernador forzudo: Se creé que hace referencia a California, de la que Arnold Schwarzenegger, conocido actor musculoso, fué gobernador.
+***Tierra del gobernador forzudo***: Se creé que hace referencia a California, de la que Arnold Schwarzenegger, conocido actor musculoso, fué gobernador.
 
-Usureros de la Tierra del Estaño: Referencia al periódico británico Financial Times.
+***Usureros de la Tierra del Estaño***: Referencia al periódico británico Financial Times.
 
-Usureros: Banqueros, la banca y por extensión la economía.
+***Usureros***: Banqueros, la banca y por extensión la economía.
 
-Villas: Segundas residencias.
+***Villas***: Segundas residencias, por las villas romanas, residéncias campestres.
