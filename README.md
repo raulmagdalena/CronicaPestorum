@@ -36,7 +36,7 @@
 
 ***Consejo de los Viejos***: Conferencia de Presidentes Autonómicos.
 
-***Creonte***: Gobernador de Tebas en la tragedia de Sófocles 'Antígona', personaje asociado al Presidente del Gobierno Español. Creonte ordena a Antígona que no entierre a su hermano Polínices, pero esta lo entierra y es condenada a muerte. En la cultura occidental Creonte representa el poder al que deshoye Antígona en pos de sus creencias, la desovediencia civil.
+***Creonte***: Gobernador de Tebas en la tragedia de Sófocles 'Antígona', personaje asociado al Presidente del Gobierno Español. Creonte ordena a Antígona que no entierre a su hermano Polínices, pero esta lo entierra y es condenada a muerte. En la cultura occidental Creonte representa el poder al que deshoye Antígona en pos de sus creencias.
 
 ***Cronistas***: Periodistas.
 
@@ -48,13 +48,13 @@
 
 ***El bardo del habla***: Referencia al escritor de "El Seños de los Anillos" Tolkien.
 
-***El bovino***: Referencia a la vacuna del coronavirus. La etimología de la palabra vacuna procede de las investigaciones sobre la viruela vacuna (Variolae Vaccinae) del médico inglés Edward Jenner a finales del siglo XVIII.
+***El bovino***: Referencia a la vacuna del coronavirus. La etimología de la palabra vacuna procede de las investigaciones sobre la viruela vacuna (Variolae Vaccinae) del médico inglés [Edward Jenner](https://es.wikipedia.org/wiki/Edward_Jenner) a finales del siglo XVIII.
 
-***El Danzarín de Gerunda***: Iceta, líder del PSC que fue alcalde de Girona. Recordado por bailar en el escenario político.
+***El Danzarín de Gerunda***: [Miquel Iceta](https://es.wikipedia.org/wiki/Miquel_Iceta), líder del PSC que fue alcalde de Girona. Recordado por bailar en el escenario político. En catalunya también se le conoce como la 'mandonguilla balleruga', la 'albondiga danzarina'. Miquel Iceta se muestra muy crítico con la gestión del President de la Generalitat, pese a que esta a sido despojada de sus competencias en materia de salud.
 
-***El de la Isla***: Referencia al Ministro Illa, isla en catalán.
+***El de la Isla***: Referencia al Ministro de Sanidad [Salvador Illa](https://es.wikipedia.org/wiki/Salvador_Illa), 'isla' en catalán, durante la pandemia. No tiene conocimientos en materia de salud y su función en un ministerio vacio, con todas sus competencias transferidas a las autonomias, era la de buscar una solución pactada con el independentismo. 
 
-***El del medio***: Oriol Mitjà. Mitjà en catalán significa "mediano". Médico asesor del Govern de la Generalitat.
+***El del medio***: [Oriol Mitjà](https://es.wikipedia.org/wiki/Oriol_Mitj%C3%A0_Villar). Mitjà en catalán significa "mediano". Médico e investigados especializado en enfermedades infecciosas, asesor del Govern de la Generalitat muy crítico con las decisiones tomadas por el Cesar. 
 
 ***El Ganso***: José María Aznar, the ansar.
 
@@ -66,7 +66,7 @@
 
 ***Encierro***: Confinamiento.
 
-***Épica de Oriente***: Referencia al poema épico hindú del Mahabharata.
+***Épica de Oriente***: Referencia al poema épico hindú del [Mahabharata](https://es.wikipedia.org/wiki/Mahabharata).
 
 ***Escudos y armaduras***: Elementos de protección para el contagio.
 
