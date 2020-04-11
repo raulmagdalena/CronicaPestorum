@@ -44,7 +44,7 @@
 
 ***Cronistas***: Periodistas.
 
-***Cuchillo de la Tierra del Estaño***: Referencia a la revista científica británica "The Lancet", el bisturí.
+***Cuchillo de la Tierra del Estaño***: Referencia a la revista científica de [Las Islas del estaño](#islas del estaño) "The Lancet", el bisturí.
 
 <a name="demos"></a>***Demos***: Significado del 'el pueblo' en griego antiguo.
 
@@ -52,19 +52,19 @@
 
 ***El bardo del habla***: Referencia al escritor de "El Seños de los Anillos" Tolkien. 'talk', hablar en inglés, se pronuncia 'tolk'.
 
-***El bovino***: Referencia a la vacuna del coronavirus. La etimología de la palabra vacuna procede de las investigaciones sobre la viruela vacuna (Variolae Vaccinae) del médico inglés [Edward Jenner](https://es.wikipedia.org/wiki/Edward_Jenner) a finales del siglo XVIII.
+***El bovino***: Referencia a la vacuna del coronavirus. La etimología de la palabra 'vacuna' procede de las investigaciones sobre la viruela vacuna (Variolae Vaccinae) del médico inglés [Edward Jenner](https://es.wikipedia.org/wiki/Edward_Jenner) a finales del siglo XVIII.
 
-***El Danzarín de Gerunda***: [Miquel Iceta](https://es.wikipedia.org/wiki/Miquel_Iceta), líder del PSC que fue alcalde de Girona. Recordado por bailar en el escenario político. En catalunya también se le conoce como la 'mandonguilla balleruga', la 'albondiga danzarina'. Miquel Iceta se muestra muy crítico con la gestión del President de la Generalitat, pese a que esta a sido despojada de sus competencias en materia de salud.
+***El Danzarín de Gerunda***: [Miquel Iceta](https://es.wikipedia.org/wiki/Miquel_Iceta), líder del PSC que fue alcalde de Girona. Recordado por bailar en el escenario político. En catalunya también se le conoce como la 'mandonguilla balleruga', la 'albondiga danzarina'. Miquel Iceta se muestra muy crítico con la gestión del President de [la Marca](#la marca), pese a que esta a sido despojada de sus competencias en materia de salud por el estado de alarma.
 
 ***El de la Isla***: Referencia al Ministro de Sanidad [Salvador Illa](https://es.wikipedia.org/wiki/Salvador_Illa), 'isla' en catalán, durante [la peste](#la peste). No tiene conocimientos en materia de salud y su función en un ministerio vacio, con todas sus competencias transferidas a las autonomias, era la de buscar una solución pactada con el independentismo. 
 
-***El del medio***: [Oriol Mitjà](https://es.wikipedia.org/wiki/Oriol_Mitj%C3%A0_Villar). Mitjà en catalán significa "mediano". Médico e investigados especializado en enfermedades infecciosas, asesor del Govern de la Generalitat muy crítico con las decisiones tomadas por el César. Se le acusa de criticar por consideraciones políticas, debido a su afiliación independentista.
+***El del medio***: [Oriol Mitjà](https://es.wikipedia.org/wiki/Oriol_Mitj%C3%A0_Villar). Mitjà en catalán significa "mediano". Médico e investigador especializado en enfermedades infecciosas, asesor de [la Marca](#la marca) muy crítico con las decisiones tomadas por el César. Se le acusa de criticar por consideraciones políticas, debido a su afiliación independentista.
 
 <a name="el frances"></a>***El francés***: el rei emérito Juan Carlos I de Borbón, dinastia de origen francés.
 
-***El Ganso***: José María Aznar, [the ansar](https://www.abc.es/internacional/abci-ansar-amigo-jose-maria-200304070300-172884_noticia.html), por [anserinae](https://es.wikipedia.org/wiki/Anserinae) subfamilia de aves a la que pertenecen los gansos. Se le vió paseando por la [villa de Tartessos](#la villa de tartessos) durante [la peste](#la peste), cuando se suponia que no podía haberse desplazado de la [villa](#Madrid) debido al encierro.
+***El Ganso***: José María Aznar, [the ansar](https://www.abc.es/internacional/abci-ansar-amigo-jose-maria-200304070300-172884_noticia.html), por [anserinae](https://es.wikipedia.org/wiki/Anserinae) subfamilia de aves a la que pertenecen los gansos. Se le vió paseando por la [villa de Tartessos](#la villa de tartessos) durante [la peste](#la peste), cuando se suponia que no podía haberse desplazado de la [villa](#Madrid) debido al [encierro](#encierro).
 
-***El Tenor***: Plácido Domingo, afectado por el coronavirus. En la Crónica Pestorun se relaciona su contagio como castigo divino por las acusaciones de acoso sexual en su contra realizadas poco antes de [la peste](#la peste).
+***El Tenor***: Plácido Domingo, afectado por la Peste. En la Crónica Pestorun se relaciona su contagio como castigo divino por las acusaciones de acoso sexual en su contra realizadas poco antes de [la peste](#la peste).
 
 ***El trovador, el bardo y el pintor***: Hace referencia a [Luis Eduardo Aute](https://es.wikipedia.org/wiki/Luis_Eduardo_Aute), cantante, pintor y poeta, muerto por el coronavirus.
 
@@ -86,7 +86,7 @@
 
 ***Grémios***: La patronal CEOE.
 
-***Guardián de la Tierra del Estaño***: hace referencia al periódico de [las islas del estaño](#islas del estaño) "The Guardian".
+***Guardián de la Tierra del Estaño***: hace referencia al periódico de las [islas del estaño](#islas del estaño) "The Guardian".
 
 <a name="habsburgo"></a>***Habsburgo***: Austria, por la dinastia reinante de la Casa de Austria.
 
@@ -94,17 +94,17 @@
 
 <a name="hospicio de la misericordia"></a>***Hospicio de la Misericordia***: En la Crónica, hace referencia a las residencias de ancianos en los que se ha producido un gran número de fallecidos por la Peste. Parece que el número de ancianos fallecidos no se contabilizó correctamente y dió lugar a un baile macabro de cifras de víctimas de la Peste.
 
-***Imperio del Centro***: Gobierno de España, en contraposición a la periferia.
+***Imperio del Centro***: Gobierno de España, en contraposición a las [Taifas](#taifas).
 
-***Indias del Norte***: USA.
+***Indias del Norte***: América del norte.
 
 ***Indias del Sur***: Latinoamérica.
 
 <a name="islas del estaño"></a>***Islas del estaño***: Islas británicas, antiguamente famosas por ser ricas en estaño, necesario para producir bronce en aleación con el cobre.
 
-***Ítaca***: Isla del Mar Egeo, hogar de [Odiseo](https://es.wikipedia.org/wiki/Odiseo y objetivo de su vuelta a casa. Referencia a la independencia de Catalunya hecha por Artur Mas.
+***Ítaca***: Isla del Mar Egeo, hogar de [Odiseo](https://es.wikipedia.org/wiki/Odiseo) y objetivo de su vuelta a casa. Referencia a la independencia de Catalunya hecha por Artur Mas.
 
-***Kratos***: [La fuerza](https://es.wikipedia.org/wiki/Cratos) en griego antiguo y por contraposición al [Demos](#demos), la dictadura.
+<a name="kratos"></a>***Kratos***: [La fuerza](https://es.wikipedia.org/wiki/Cratos) en griego antiguo y por contraposición al [Demos](#demos), la dictadura.
 
 <a name="cantante de la corte"></a>***La cantante de la Corte***: Se creé que hace referencia a la cantante Marta Sanchez, nacida en [la Corte](#la Corte) y procedente del grupo musical Olé Olé, de donde parece que hace referenci la frase 'la que vendrá de los toros. Durante la pandemia compuso una canción infumable trufada de lugares comunes (llamados [trufismos](https://es.wikipedia.org/wiki/Lugar_com%C3%BAn) en la Crónica). La frase 'se inspira ***con*** María' parece hacer referencia a haber compuesto la cantata bajo los efectos de la marihuana. Al parecer la compositora es reincidente en componer fumada himnos infumables.
  
@@ -120,7 +120,7 @@
 
 <a name="plebe"></a>***La Plebe***: El pueblo. Grupo social de la antigua Roma que no pertenecia a ninguna ***gens*** y por lo tanto no tenian ni ciudadania ni derechos.
 
-***La República***: Francia. La Crónica hace referencia a que "el magistrado de la República no hará más preguntas", por la anulación de la segunda vuelta de las elecciones francesas.
+***La República***: Francia. La Crónica hace referencia a que "el magistrado de la República no hará más preguntas", por la anulación de la segunda vuelta de las elecciones regionales francesas.
 
 ***La Torre***: Referencia al President de [La Marca](#la marca), Quim Torra.
 
@@ -132,9 +132,12 @@
 
 ***Los Fugger***: Banqueros alemanes del siglo XIV, principales proveedores de crédito de los [Habsburgo](#habsburgo). En las profecías de la Crónica Pestorum se ha asociado a los Fugger con el BCE.
 
-***Los Montañeses***: Referencia al País Vasco, pueblo que habita en las montañas.
+<a name="los montañeses"></a>***Los Montañeses***: Referencia al País Vasco, pueblo que habita en las montañas.
+
+<a name="mana"></a>***Maná***: Según el libro del Éxodo, el [maná](https://es.wikipedia.org/wiki/Man%C3%A1_(Biblia)) es el pan que Dios enviaba a los israelitas todos los días durante su travesia del desierto. Se interpreta como una referencia a la [Renta Básica](https://es.wikipedia.org/wiki/Renta_b%C3%A1sica_universal).
 
 <a name="mos maiorum"></a>***Mos maiorum***: Locución latina con el significado de [la costumbre de los ancestros](https://es.wikipedia.org/wiki/Mos_maiorum). En la Crónica Pestorum hace referencia la continuidad de los privilegios de la oligarquia y los [patricios](#patricios).
+
 ***Morado***: Referencia al partido político Unidas Podemos cuya enseña és el morado.
 
 ***Naranja***: Referencia al partido político Ciudadanos cuya enseña és el naranja.
@@ -157,7 +160,7 @@
 
 ***Ruedo de la verdad***: Ruedas de prensa.
 
-***Sempronia***: Referencia a la Ley Semproniana de [Tiberio](#tiberio) Graco, ley de reforma agraria para proporcionar tierras a la plebe romana. En la Crónica Pestorum [la plebe](#plebe) acepta volver al trabajo sin esperanza de reformas.
+<a name="sempronia"></a>***Sempronia***: Referencia a la Ley Semproniana de [Tiberio](#tiberio) Graco, ley de reforma agraria para proporcionar tierras a la plebe romana. En la Crónica Pestorum [la plebe](#plebe) acepta volver al trabajo sin esperanza de reformas.
 
 <a name="senado"></a>***Senado***: Congreso de los diputados.
 
