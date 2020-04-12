@@ -31,7 +31,7 @@ te será concedido
 El [Imperio del Centro](https://github.com/raulmagdalena/glosari#imperio del centro) no conoce el número de sus muertos
 el [Hospicio de la Misericordia](https://github.com/raulmagdalena/glosari#hospicio de la misericordia) no se ha sumado
 El de [la Isla](https://github.com/raulmagdalena/glosari#la isla) naufraga, no es [galeno](https://github.com/raulmagdalena/glosari#galeno) ni capataz, solo la [auctoritas](https://github.com/raulmagdalena/glosari#auctoritas)
-Como hijo de [la Marca](https://github.com/raulmagdalena/glosari#la marca), su labor era dialogar y tripular una nave vacia.
+Como hijo de [la Marca](https://github.com/raulmagdalena/glosari#marca), su labor era dialogar y tripular una nave vacia.
 
 [Tercera profecía](https://twitter.com/CronicaPestorum/status/1248858401075011585)
 Los [tudescos](https://github.com/raulmagdalena/glosari#tudescos) no querrán abrir la [bolsa del oro](https://github.com/raulmagdalena/glosari#bolsa del oro)
