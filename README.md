@@ -98,7 +98,7 @@
 
 <a name="hospiciodelamisericordia"></a>***Hospicio de la Misericordia***: En la Crónica, hace referencia a las residencias de ancianos en los que se ha producido un gran número de fallecidos por la Peste. Parece que el número de ancianos fallecidos no se contabilizó correctamente y dió lugar a un baile macabro de cifras de víctimas de la Peste.
 
-<a name="imperiodelcentro"></a>***Imperio del Centro***: Gobierno de España, en contraposición a las [Taifas](#taifas).
+<a name="imperiodelcentro"></a>***Imperio del Centro***: Gobierno de España, en contraposición a las [Taifas](#taifas).<sup>[1](https://github.com/raulmagdalena/profecias#1)</sup>
 
 <a name="indiasdelnorte"></a>***Indias del Norte***: América del norte.
 

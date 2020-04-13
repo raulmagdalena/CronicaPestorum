@@ -2,7 +2,7 @@ Las profecias de Nostradamus que hacen referencia a la pandemia del coronavirus 
 
 [Profecia del día anterior los Idus de Marzo](https://twitter.com/CronicaPestorum/status/1239107878788661248)
 El dia anterior a los Idus de Marzo
-el [Imperio del Centro](https://github.com/raulmagdalena/glosari#imperio del centro) toma el control.
+el <a name="1"></a>[Imperio del Centro](https://github.com/raulmagdalena/glosari#imperio del centro) toma el control.
 La mujer del [César](https://github.com/raulmagdalena/glosari#cesar) cae enferma, ¿que pasará con el César?
 [La Torre](https://github.com/raulmagdalena/glosari#la torre) [cierra los caminos](https://github.com/raulmagdalena/glosari#caminos), [los montañeses](https://github.com/raulmagdalena/glosari#montañeses) protestan, [Tartessos](https://github.com/raulmagdalena/glosari#tartessos) permanece en silencio.
 El [apostol](https://github.com/raulmagdalena/glosari#apostol) está encerrado en la [corte](https://github.com/raulmagdalena/glosari#corte).
@@ -28,21 +28,33 @@ solo por haber nacido
 te será concedido
 
 [Segunda profecía](https://twitter.com/CronicaPestorum/status/1248856257106268164)
-El [Imperio del Centro](https://github.com/raulmagdalena/glosari#imperio del centro) no conoce el número de sus muertos
-el [Hospicio de la Misericordia](https://github.com/raulmagdalena/glosari#hospicio de la misericordia) no se ha sumado
-El de [la Isla](https://github.com/raulmagdalena/glosari#la isla) naufraga, no es [galeno](https://github.com/raulmagdalena/glosari#galeno) ni capataz, solo la [auctoritas](https://github.com/raulmagdalena/glosari#auctoritas)
+El [Imperio del Centro](https://github.com/raulmagdalena/glosari#imperiodelcentro) no conoce el número de sus muertos
+el [Hospicio de la Misericordia](https://github.com/raulmagdalena/glosari#hospiciodelamisericordia) no se ha sumado
+El de [la Isla](https://github.com/raulmagdalena/glosari#laisla) naufraga, no es [galeno](https://github.com/raulmagdalena/glosari#galeno) ni capataz, solo la [auctoritas](https://github.com/raulmagdalena/glosari#auctoritas)
 Como hijo de [la Marca](https://github.com/raulmagdalena/glosari#marca), su labor era dialogar y tripular una nave vacia.
 
 [Tercera profecía](https://twitter.com/CronicaPestorum/status/1248858401075011585)
-Los [tudescos](https://github.com/raulmagdalena/glosari#tudescos) no querrán abrir la [bolsa del oro](https://github.com/raulmagdalena/glosari#bolsa del oro)
+Los [tudescos](https://github.com/raulmagdalena/glosari#tudescos) no querrán abrir la [bolsa del oro](https://github.com/raulmagdalena/glosari#bolsadeloro)
 pues creen que los [latinos](https://github.com/raulmagdalena/glosari#latinos) les han engañado
 [Leyes Sempronias](https://github.com/raulmagdalena/glosari#sempronia) habian prometido
-pero la "[mos maiorum](https://github.com/raulmagdalena/glosari#mos maiorum)" fue más fuerte
+pero la "[mos maiorum](https://github.com/raulmagdalena/glosari#mosmaiorum)" fue más fuerte
 Finalmente cederán a cambio de "requerimientos"
 
 [Cuarta profecia profecía](https://twitter.com/CronicaPestorum/status/1248859410379702273)
-La [cantante de la Corte](https://github.com/raulmagdalena/glosari#cantante de la corte), la que venía de los toros
+La [cantante de la Corte](https://github.com/raulmagdalena/glosari#cantantedelacorte), la que venía de los toros
 se inspira con María y nos canta otro himno
 compondrá una cantata rellena de [truismos](https://github.com/raulmagdalena/glosari#truismos)
 Dios le ha hablado desde el corazón
 
+Profecias referidas al día 13 de Abril [Primera profecía](https://twitter.com/CronicaPestorum/status/1249584979778113536)
+Idus de Abril, año de los 2 🦆0🦆0, 2773 ab Urbe condita
+El [Imperio del Centro](https://github.com/raulmagdalena/glosari#imperiodelcentro) volverá a trabajar
+Juntos los soldados desfilaran camino de la guerra
+que [César](https://github.com/raulmagdalena/glosari#cesar) proclama
+La [Casa del César](https://github.com/raulmagdalena/glosari#casadelcesar)todo lo juega a que [la plebe](https://github.com/raulmagdalena/glosari#laplebe) ya sea inmune
+En una decena se verá.
+
+El lunes 13 de Abril [regresaron a trabajar](https://www.lavanguardia.com/vida/20200413/48452301253/trabajos-presenciales-permitidos-espana-coronavirus.html) los empleados no esenciales.
+El dia anterior, el Presidente del Gobierno realizó un [discurso épico](https://www.lamoncloa.gob.es/multimedia/videos/presidente/Paginas/2020/12042020_comparecencia.aspx) mencionado la Guerra contra el coronavirus y que todos héramos soldados en esta guerra.
+Parecia que el Gobierno creé que ya se ha alcanzado la [inmunidad de grupo](https://es.wikipedia.org/wiki/Inmunidad_de_grupo) y que los contagios no crecerán demasiado.
+En unos días se podrá ver si es correcto. 
