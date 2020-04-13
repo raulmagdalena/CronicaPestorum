@@ -2,10 +2,10 @@ Las profecias de Nostradamus que hacen referencia a la pandemia del coronavirus 
 
 [Profecia del día anterior los Idus de Marzo](https://twitter.com/CronicaPestorum/status/1239107878788661248)
 El dia anterior a los Idus de Marzo
-el <a name="1"></a>[Imperio del Centro](https://github.com/raulmagdalena/glosari#imperio del centro) toma el control.
-La mujer del [César](https://github.com/raulmagdalena/glosari#cesar) cae enferma, ¿que pasará con el César?
-[La Torre](https://github.com/raulmagdalena/glosari#la torre) [cierra los caminos](https://github.com/raulmagdalena/glosari#caminos), [los montañeses](https://github.com/raulmagdalena/glosari#montañeses) protestan, [Tartessos](https://github.com/raulmagdalena/glosari#tartessos) permanece en silencio.
-El [apostol](https://github.com/raulmagdalena/glosari#apostol) está encerrado en la [corte](https://github.com/raulmagdalena/glosari#corte).
+el <a name="1"></a>[Imperio del Centro](https://github.com/raulmagdalena/glosari#imperiodelcentro) toma el control.
+La mujer del <a name="2"></a>[César](https://github.com/raulmagdalena/glosari#cesar) cae enferma, ¿que pasará con el César?
+<a name="3"></a>[La Torre](https://github.com/raulmagdalena/glosari#la torre) <a name="4"></a>[cierra los caminos](https://github.com/raulmagdalena/glosari#caminos), <a name="5"></a>[los montañeses](https://github.com/raulmagdalena/glosari#montañeses) protestan, <a name="6"></a>[Tartessos](https://github.com/raulmagdalena/glosari#tartessos) permanece en silencio.
+El <a name="7"></a>[apostol](https://github.com/raulmagdalena/glosari#apostol) está encerrado en la [corte](https://github.com/raulmagdalena/glosari#corte).
 
 El 14 de Marzo el Gobierno Español decretó el [Estado de Alarma](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-3692).
 Se supo que la esposa del Presidente del Gobierno había [dado positivo](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-3692) por el coronavirus.
