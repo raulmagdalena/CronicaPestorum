@@ -1,6 +1,6 @@
 **Glosario y Dramatis Personae de la Crónica Pestorum de Nostradamus**. [Crónica Pestorum](https://twitter.com/CronicaPestorum)
 
-<a name="caminos"></a>**Apertura y cierre de los caminos**: Se refiere al [encierro](#encierro) proclamado por [la Peste](#lapeste) del coronavirus.<sup>[4](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#4)</sup>
+<a name="caminos"></a>**Apertura y cierre de los caminos**<sup>[[4]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#4)</sup>: Se refiere al [encierro](#encierro) proclamado por [la Peste](#lapeste) del coronavirus.
 
 <a name="alguacil"></a>**Alguacil**: policia.
 
@@ -18,7 +18,7 @@
 
 <a name="bolsadeloro"></a>***Bolsa del oro***: Referencia a los coronabonos, bonos solicitados el BCE para hecer frente a los gastos de la Peste.
 
-<a name="bruto"></a>***Bruto, El hijo del francés***: Felipe VI, hijo de [Juan Carlos I de Borbón](#elfrances), dinastía real de origen francés. Bruto por haber denunciado la corrupción de su padre durante la progresión de [la peste](#lapeste). [Marco Junio Bruto](https://es.wikipedia.org/wiki/MarcoJunioBruto), tiranicida y asesino de Julio César, su supuesto padre. 
+<a name="bruto"></a>***Bruto, El hijo del francés***<sup>[[9]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#9)</sup>: Felipe VI, hijo de [Juan Carlos I de Borbón](#elfrances), dinastía real de origen francés. Bruto por haber denunciado la corrupción de su padre durante la progresión de [la peste](#lapeste). [Marco Junio Bruto](https://es.wikipedia.org/wiki/MarcoJunioBruto), tiranicida y asesino de Julio César, su supuesto padre.
 
 <a name="caidadelapeste"></a>***Caída de la Peste***: Descenso del número de contagios, lo que se ha venido a llamar "aplanar la curva".
 
@@ -34,7 +34,7 @@
 
 <a name="centuriones"></a>***Centuriones***: Militares.
 
-<a name="cesar"></a>***César***: Pedro Sánchez Castejón, presidente del Gobierno de España.<sup>[2](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#2)</sup>
+<a name="cesar"></a>***César***<sup>[[2]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#2)</sup>: Pedro Sánchez Castejón, presidente del Gobierno de España.
 
 <a name="conjuradeoctubre"></a>***Conjura de Octubre***: Defenestración de Sánchez Castejón como Secretario General del [PSOE](#rojo) el 1 de Octubre del 2016 por los barones del partido.
 
@@ -48,7 +48,7 @@
 
 <a name="demos"></a>***Demos***: Significado del 'el pueblo' en griego antiguo.
 
-<a name="elapostol"></a>***El Apóstol***: Otra referencia al Presidente del Gobierno Español, Pedro.<sup>[7](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#7)</sup>
+<a name="elapostol"></a>***El Apóstol***<sup>[[7]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#7)</sup>: Otra referencia al Presidente del Gobierno Español, Pedro.
 
 <a name="elbardodelhabla"></a>***El bardo del habla***: Referencia al escritor de "El Seños de los Anillos" Tolkien. 'talk', hablar en inglés, se pronuncia 'tolk'.
 
@@ -98,7 +98,7 @@
 
 <a name="hospiciodelamisericordia"></a>***Hospicio de la Misericordia***: En la Crónica, hace referencia a las residencias de ancianos en los que se ha producido un gran número de fallecidos por la Peste. Parece que el número de ancianos fallecidos no se contabilizó correctamente y dió lugar a un baile macabro de cifras de víctimas de la Peste.
 
-<a name="imperiodelcentro"></a>***Imperio del Centro***: Gobierno de España, en contraposición a las [Taifas](#taifas).<sup>[1](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#1)</sup>
+<a name="imperiodelcentro"></a>***Imperio del Centro***<sup>[[1]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#1)</sup><sup>[[12]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#12)</sup>: Gobierno de España, en contraposición a las [Taifas](#taifas).
 
 <a name="indiasdelnorte"></a>***Indias del Norte***: América del norte.
 
@@ -116,7 +116,10 @@
  
 <a name="lacasadelcesar"></a>***La Casa del César***: Referencia a la Moncloa, residencia oficial del Presidente del Gobierno Español y sede del Gobierno.
 
-<a name="laCorte"></a>***La Corte***: Madrid.
+<a name="lacorte"></a>***La Corte***<sup>[[8]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#8)</sup>: Madrid.
+
+
+<a name="laguadaña"></a>***La Guadaña***: No necesita presentación, la Muerte.
 
 <a name="lamarca"></a>***La Marca***: Catalunya, antiguamente la [Marca Hispánica](https://es.wikipedia.org/wiki/Marca_Hisp%C3%A1nica) de los Francos y origen político de Catalunya.
 
@@ -128,7 +131,7 @@
 
 <a name="larepublica"></a>***La República***: Francia. La Crónica hace referencia a que "el magistrado de la República no hará más preguntas", por la anulación de la segunda vuelta de las elecciones regionales francesas.
 
-<a name="latorre"></a>***La Torre***: Referencia al President de [La Marca](#lamarca), Quim Torra.<sup>[3](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#3)</sup>
+<a name="latorre"></a>***La Torre***<sup>[[3]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#3)</sup><sup>[[11]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#11)</sup>: Referencia al President de [La Marca](#lamarca), Quim Torra.
 
 <a name="lailladetartessos"></a>***La villa de Tartessos***: Marbella, localidad situada en Andalucia, región conocida en la Crónica como [Tartessos](#tartessos).
 
@@ -138,7 +141,7 @@
 
 <a name="losfugger"></a>***Los Fugger***: Banqueros alemanes del siglo XIV, principales proveedores de crédito de los [Habsburgo](#habsburgo). En las profecías de la Crónica Pestorum se ha asociado a los Fugger con el BCE.
 
-<a name="losmontañeses"></a>***Los Montañeses***: Referencia al País Vasco, pueblo que habita en las montañas.<sup>[5](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#5)</sup>
+<a name="losmontañeses"></a>***Los Montañeses***<sup>[[5]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#5)</sup>: Referencia al País Vasco, pueblo que habita en las montañas.
 
 <a name="mana"></a>***Maná***: Según el libro del Éxodo, el [maná](https://es.wikipedia.org/wiki/Man%C3%A1_(Biblia)) es el pan que Dios enviaba a los israelitas todos los días durante su travesia del desierto. Se interpreta como una referencia a la [Renta Básica](https://es.wikipedia.org/wiki/Renta_b%C3%A1sica_universal).
 
@@ -160,7 +163,7 @@
 
 <a name="poveglia"></a>***Poveglia***: [Isla veneciana](https://es.wikipedia.org/wiki/Poveglia) donde los barcos pasaban el periodo de cuarentena.
 
-<a name="reyesdelatierradelincienso"></a>***Reyes de la Tierra del Incienso***: Monarquía Saudí de Arabia. Referencia a las comisiones pagadas al Rey emérito Juan Carlos I por los saudíes para la construcción del tren de alta velocidad a la Meca. Antiguamente, la Península Arábiga era conocida como el origen del incienso y la Mirra.
+<a name="reyesdelatierradelincienso"></a>***Reyes de la Tierra del Incienso***<sup>[[10]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#10)</sup>: Monarquía Saudí de Arabia. Referencia a las comisiones pagadas al Rey emérito Juan Carlos I por los saudíes para la construcción del tren de alta velocidad a la Meca. Antiguamente, la Península Arábiga era conocida como el origen del incienso y la Mirra.
 
 <a name="riodeenero"></a>***Rio de Enero***: Rio de Janeiro en Brásil.
 
@@ -176,7 +179,7 @@
 
 <a name="taifas"></a>***Taifas***: Autonomías. Antiguos reinos arabes de Al-Andalus, en los que se dividió el califato Omeya. 
 
-<a name="tartessos"></a>***Tartessos***: Andalucía. [Tartessos](https://es.wikipedia.org/wiki/Tartessos) es un reino legendario que los griegos situaban en el sur de la península Ibérica.<sup>[6](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#6)</sup>
+<a name="tartessos"></a>***Tartessos***<sup>[[6]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#6)</sup>: Andalucía. [Tartessos](https://es.wikipedia.org/wiki/Tartessos) es un reino legendario que los griegos situaban en el sur de la península Ibérica.
 
 <a name="tercios"></a>***Tércios***: Cuerpos de ejercito de la Monarquia Hispánica.
 
