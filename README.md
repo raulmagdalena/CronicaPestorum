@@ -1,5 +1,7 @@
 **Glosario y Dramatis Personae de la Crónica Pestorum de Nostradamus**. [Crónica Pestorum](https://twitter.com/CronicaPestorum)
 
+<a name="aburbecondita"></a>***Ab Urbe Condita***:Termino latino que significa "[desde la fundación de la ciudad](https://es.wikipedia.org/wiki/Ab_Urbe_condita)" de Roma.
+
 <a name="caminos"></a>**Apertura y cierre de los caminos**<sup>[[4]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#4)</sup>: Se refiere al [encierro](#encierro) proclamado por [la Peste](#lapeste) del coronavirus.
 
 <a name="alguacil"></a>**Alguacil**: policia.
@@ -28,7 +30,7 @@
 
 <a name="cancilleriagaleno"></a>***Cancillería del galeno***: Ministerio de Sanidad.
 
-<a name="casadelashierbas"></a>***Casa de las Hierbas***: Casa dels Canonjes, residencia oficial del President de la Generalitat de Catalunya. Canonjes significa canónigos en catalán, una hierba comestible.
+<a name="casadelashierbas"></a>***Casa de las Hierbas***<sup>[[14]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#14)</sup>:: Casa dels Canonjes, residencia oficial del President de la Generalitat de Catalunya. Canonjes significa canónigos en catalán, una hierba comestible.
 
 <a name="cayo"></a>***Cayo***: [Cayo Sempronio Graco](https://es.wikipedia.org/wiki/Cayo_Sempronio_Graco), hermano menor de [Tiberio](https://es.wikipedia.org/wiki/Tiberio_Sempronio_Graco) y a su vez [Tribuno de la plebe](https://es.wikipedia.org/wiki/Tribuno_de_la_plebe) romana, ambos asesinados por los [patricios](#patricios) debido a su política reformista.
 
@@ -98,7 +100,7 @@
 
 <a name="hospiciodelamisericordia"></a>***Hospicio de la Misericordia***: En la Crónica, hace referencia a las residencias de ancianos en los que se ha producido un gran número de fallecidos por la Peste. Parece que el número de ancianos fallecidos no se contabilizó correctamente y dió lugar a un baile macabro de cifras de víctimas de la Peste.
 
-<a name="imperiodelcentro"></a>***Imperio del Centro***<sup>[[1]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#1)</sup><sup>[[12]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#12)</sup>: Gobierno de España, en contraposición a las [Taifas](#taifas).
+<a name="imperiodelcentro"></a>***Imperio del Centro***<sup>[[1]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#1)</sup><sup>[[12]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#12)</sup><sup>[[15]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#15)</sup>:: Gobierno de España, en contraposición a las [Taifas](#taifas).
 
 <a name="indiasdelnorte"></a>***Indias del Norte***: América del norte.
 
@@ -129,9 +131,9 @@
 
 <a name="laplebe"></a>***La Plebe***: El pueblo. Grupo social de la antigua Roma que no pertenecia a ninguna ***gens*** y por lo tanto no tenian ni ciudadania ni derechos.
 
-<a name="larepublica"></a>***La República***: Francia. La Crónica hace referencia a que "el magistrado de la República no hará más preguntas", por la anulación de la segunda vuelta de las elecciones regionales francesas.
+<a name="larepublica"></a>***La República***<sup>[[16]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#16)</sup>:: Francia. La Crónica hace referencia a que "el magistrado de la República no hará más preguntas", por la anulación de la segunda vuelta de las elecciones regionales francesas.
 
-<a name="latorre"></a>***La Torre***<sup>[[3]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#3)</sup><sup>[[11]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#11)</sup>: Referencia al President de [La Marca](#lamarca), Quim Torra.
+<a name="latorre"></a>***La Torre***<sup>[[3]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#3)</sup><sup>[[11]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#11)</sup><sup>[[13]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#13)</sup>:: Referencia al President de [La Marca](#lamarca), Quim Torra.
 
 <a name="lailladetartessos"></a>***La villa de Tartessos***: Marbella, localidad situada en Andalucia, región conocida en la Crónica como [Tartessos](#tartessos).
 
