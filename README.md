@@ -18,7 +18,8 @@
 
 <a name="bando"></a>***Bando***: Ley.
 
-<a name="bolsadeloro"></a>***Bolsa del oro***: Referencia a los coronabonos, bonos solicitados el BCE para hecer frente a los gastos de la Peste.
+<a name="bolsad
+eloro"></a>***Bolsa del oro***: Referencia a los coronabonos, bonos solicitados el BCE para hecer frente a los gastos de la Peste.
 
 <a name="bruto"></a>***Bruto, El hijo del francés***<sup>[[9]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#9)</sup>: Felipe VI, hijo de [Juan Carlos I de Borbón](#elfrances), dinastía real de origen francés. Bruto por haber denunciado la corrupción de su padre durante la progresión de [la peste](#lapeste). [Marco Junio Bruto](https://es.wikipedia.org/wiki/MarcoJunioBruto), tiranicida y asesino de Julio César, su supuesto padre.
 
@@ -34,7 +35,7 @@
 
 <a name="cayo"></a>***Cayo***: [Cayo Sempronio Graco](https://es.wikipedia.org/wiki/Cayo_Sempronio_Graco), hermano menor de [Tiberio](https://es.wikipedia.org/wiki/Tiberio_Sempronio_Graco) y a su vez [Tribuno de la plebe](https://es.wikipedia.org/wiki/Tribuno_de_la_plebe) romana, ambos asesinados por los [patricios](#patricios) debido a su política reformista.
 
-<a name="centuriones"></a>***Centuriones***: Militares.
+<a name="centuriones"></a>***Centuriones***: Militares o Guardia Civil.
 
 <a name="cesar"></a>***César***<sup>[[2]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#2)</sup>: Pedro Sánchez Castejón, presidente del Gobierno de España.
 

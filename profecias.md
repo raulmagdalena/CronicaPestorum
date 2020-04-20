@@ -33,7 +33,8 @@ Profecía referia al día 16 de Marzo [Primera profecía](https://twitter.com/Cr
 En el postridie de los Idus de Marzo del año de los dos patitos, 2773 ab Urbe condita
 <a name="13"></a>[La Torre](https://github.com/raulmagdalena/glosari#latorre) ha enfermado y se ha encerrado con <a name="14"></a>[las hierbas](https://github.com/raulmagdalena/glosari#casadelashierbas)
 El <a name="15"></a>[Imperio del Centro](https://github.com/raulmagdalena/glosari#imperiodelcentro) ha cerrado los puentes pero deja los caminos libres
-El magistrado de <a name="16"></a>[La República](https://github.com/raulmagdalena/glosari#larepublica) no hará más preguntas.
+El magistrado de <a name="16
+"></a>[La República](https://github.com/raulmagdalena/glosari#larepublica) no hará más preguntas.
 
 Interpretación:
 
@@ -129,8 +130,21 @@ Profecias referidas al día 18 de Abril
 Ante diem XIII de las Kalendas de Mayo, año de los 
 2 🦆0🦆0, 2773 ab Urbe condita
 El [César](https://github.com/raulmagdalena/glosari#cesar) querrá seguir alarmado pero permitirá a los infantes correr
-6 días después de la fundación de la ciudad las puertas se abriran, de hora en hora, según la edad.
+6 días [después de la fundación de la ciudad](https://github.com/raulmagdalena/glosari#aburbecondita) las puertas se abriran, de hora en hora, según la edad.
 
 Interpretación:
 
 Pedro Sanchez [anunció el 18 de Abril](https://www.lavanguardia.com/politica/20200418/48594980653/gobierno-propone-prorroga-estado-alarma-9-mayo-alivia-confinamiento-ninos-menores-coronavirus-pedro-sanchez.html) la intención de solicitar una prorroga del Estado de Alarma hasta el 9 de Mayo y permitir la salida de los niños del confinamiento a partir del 27 de Abril, 6 días después del 21 de Abril, fecha tradicional de la fundación de Roma "[Ab Urbe Condita](https://github.com/raulmagdalena/glosari#aburbecondita)". La Generalitat de Catalunya ya había informado que cuando se diera permiso a los niños para salir, [se haría por franjas de edad y hora](https://www.lavanguardia.com/vida/20200418/48582287073/confinamiento-ninos-salir-calle-turnos.html).
+
+Profecías referidas al día 19 de Abril
+
+[Primera profecía](https://twitter.com/CronicaPestorum/status/1252128538846609409)
+
+Ante diem XII de las Kalendas de Mayo, año de los 
+2 🦆0🦆0, 2773 ab Urbe condita
+El [César](https://github.com/raulmagdalena/glosari#cesar) quiere dejar claro quien controla el territorio y a las [Taifas]((https://github.com/raulmagdalena/glosari#taifas) no permitirá que tomen sus medidas
+El [centurión](https://github.com/raulmagdalena/glosari#centuriones) dejará salir aquello que muchos sospechan y temen
+
+Interpretación:
+
+Después de que varios presidentes autonómicos hayan hecho públicos sus planes de desconfinamiento, Pedro Sanchez anunció el domingo 19 de Abril que sería el [Ministerio de Sanidad quien dirigirá el desconfinamiento](https://www.lavanguardia.com/politica/20200419/48618648844/desescalada-confinamiento-estado-alarma-espana-sanchez-autonomias.html). El general de la Guardia Civil José Manuel Santiago dijo en rueda de prensa que  trabajaban para "[minimizar ese clima contrario a la gestión de crisis por parte del Gobierno](https://www.lavanguardia.com/politica/20200419/48615985562/guardia-civil-trabaja-minimizar-criticas-gobierno-redes.html)", lo que después se calificó como "lapsus".
