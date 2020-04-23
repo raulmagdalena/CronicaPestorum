@@ -18,8 +18,11 @@
 
 <a name="bando"></a>***Bando***: Ley.
 
-<a name="bolsad
-eloro"></a>***Bolsa del oro***: Referencia a los coronabonos, bonos solicitados el BCE para hecer frente a los gastos de la Peste.
+<a name="bardomanco"></a>***Bardo manco***: El escritor Miguel de Cervantes.
+
+<a mane="bardoingles"></a>***Bardo inglés***: El escritor William Shakespeare.
+
+<a name="bolsadeloro"></a>***Bolsa del oro***: Referencia a los coronabonos, bonos solicitados el BCE para hecer frente a los gastos de la Peste.
 
 <a name="bruto"></a>***Bruto, El hijo del francés***<sup>[[9]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#9)</sup>: Felipe VI, hijo de [Juan Carlos I de Borbón](#elfrances), dinastía real de origen francés. Bruto por haber denunciado la corrupción de su padre durante la progresión de [la peste](#lapeste). [Marco Junio Bruto](https://es.wikipedia.org/wiki/MarcoJunioBruto), tiranicida y asesino de Julio César, su supuesto padre.
 
@@ -77,6 +80,8 @@ eloro"></a>***Bolsa del oro***: Referencia a los coronabonos, bonos solicitados 
 
 <a name="verde"></a>***El Verde***: Referencia al partido político VOX cuya enseña és el verde (**V**iva **e**l **R**ey **d**e **E**spaña)
 
+<a name="emperador"></a>***Emperador***: La Unión Europea, como un emperador, es la mayor autoridad política en Europa.
+
 <a name="encierro"></a>***Encierro***: Confinamiento.
 
 <a name="epicadeoriente"></a>***Épica de Oriente***: Referencia al poema épico hindú del [Mahabharata](https://es.wikipedia.org/wiki/Mahabharata) en el que [Arjuna](#arjuna) es uno de los héroes.
@@ -115,6 +120,8 @@ eloro"></a>***Bolsa del oro***: Referencia a los coronabonos, bonos solicitados 
 
 <a name="jinetes"></a>***Jinetes***: Hace referencia a los Cuatro Jinetes del Apocalipsis.
 
+<a name="juezsupremo"></a>***Juez Supremo***: Hace referencia al Tribunal Supremo de España.
+
 <a name="cantantedelacorte"></a>***La cantante de la Corte***: Se creé que hace referencia a la cantante Marta Sanchez, nacida en [la Corte](#la Corte) y procedente del grupo musical Olé Olé, de donde parece que hace referenci la frase 'la que vendrá de los toros. Durante la pandemia compuso una canción infumable trufada de lugares comunes (llamados [trufismos](https://es.wikipedia.org/wiki/Lugar_com%C3%BAn) en la Crónica). La frase 'se inspira ***con*** María' parece hacer referencia a haber compuesto la cantata bajo los efectos de la marihuana. Al parecer la compositora es reincidente en componer fumada himnos infumables.
  
 <a name="lacasadelcesar"></a>***La Casa del César***: Referencia a la Moncloa, residencia oficial del Presidente del Gobierno Español y sede del Gobierno.
@@ -144,9 +151,13 @@ eloro"></a>***Bolsa del oro***: Referencia a los coronabonos, bonos solicitados 
 
 <a name="losfugger"></a>***Los Fugger***: Banqueros alemanes del siglo XIV, principales proveedores de crédito de los [Habsburgo](#habsburgo). En las profecías de la Crónica Pestorum se ha asociado a los Fugger con el BCE.
 
+<a name="losinfantes"></a>***Los infantes***: Los niños
+
 <a name="losmontañeses"></a>***Los Montañeses***<sup>[[5]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#5)</sup>: Referencia al País Vasco, pueblo que habita en las montañas.
 
 <a name="mana"></a>***Maná***: Según el libro del Éxodo, el [maná](https://es.wikipedia.org/wiki/Man%C3%A1_(Biblia)) es el pan que Dios enviaba a los israelitas todos los días durante su travesia del desierto. Se interpreta como una referencia a la [Renta Básica](https://es.wikipedia.org/wiki/Renta_b%C3%A1sica_universal).
+
+<a name="magistradodebaetulo"></a>***El magistrado de Baetulo***: El alcalde de Badalona.
 
 <a name="mosmaiorum"></a>***Mos maiorum***: Locución latina con el significado de [la costumbre de los ancestros](https://es.wikipedia.org/wiki/Mos_maiorum). En la Crónica Pestorum hace referencia la continuidad de los privilegios de la oligarquia y los [patricios](#patricios).
 
@@ -165,6 +176,8 @@ eloro"></a>***Bolsa del oro***: Referencia a los coronabonos, bonos solicitados 
 <a name="portusdesanpedro"></a>***Portus de San Pedro***: Aeropuerto. San Pedro recibe en el cielo a las almas.
 
 <a name="poveglia"></a>***Poveglia***: [Isla veneciana](https://es.wikipedia.org/wiki/Poveglia) donde los barcos pasaban el periodo de cuarentena.
+
+<a name="purezacerveza"></a>***La pureza de la cerveza***: Se refiere a la [Ley de pureza de 1516](https://es.wikipedia.org/wiki/Ley_de_pureza_de_1516) de la cerveza, proclamada un 23 de Abril.
 
 <a name="reyesdelatierradelincienso"></a>***Reyes de la Tierra del Incienso***<sup>[[10]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#10)</sup>: Monarquía Saudí de Arabia. Referencia a las comisiones pagadas al Rey emérito Juan Carlos I por los saudíes para la construcción del tren de alta velocidad a la Meca. Antiguamente, la Península Arábiga era conocida como el origen del incienso y la Mirra.
 

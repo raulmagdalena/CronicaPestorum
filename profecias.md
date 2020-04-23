@@ -42,6 +42,18 @@ El presidente de la Generalitat Quim Torra, [informó de que había dado positiv
 El Gobierno informó de que se cerraban las fronteras, pero no se autorizaba el confinamiento de los territorios de las diferentes [autonomias que lo solicitaban](https://www.larazon.es/cataluna/20200316/mccixel2hrasjpqnuipm3bajwi.html).
 Francia anunció que se [suspendia la segunda vuelta de las elecciones municipales](https://elpais.com/internacional/2020-03-16/francia-se-prepara-para-aplazar-la-segunda-vuelta-de-las-elecciones-municipales-por-el-coronavirus.html).
 
+
+Profecía referia al 18 de marzo [Primera profecía](https://twitter.com/CronicaPestorum/status/1240186676686790656)
+
+Ante diem kalendas de Abril del año de los 2 🦆0🦆0 2773 ab Urbe condita.
+El [Imperio del Centro](https://github.com/raulmagdalena/glosari#larepublica) se rodea de [centuriones](https://github.com/raulmagdalena/glosari#centuriones) en lugar de [galenos](https://github.com/raulmagdalena/glosari#galenos), y decreta las medidas de la usura.
+[La Torre](https://github.com/raulmagdalena/glosari#latorre) implora el cierre de La [Marca](https://github.com/raulmagdalena/glosari#lamarca).
+[Bruto](https://github.com/raulmagdalena/glosari#bruto), el hijo del [francés](https://github.com/raulmagdalena/glosari#elfrances), leerá un bando.
+
+Interpretación:
+
+
+
 Profecías referidas al 10 de Abril [Primera profecía](https://twitter.com/CronicaPestorum/status/1248853386520334340)
 
 Ante diem III de los Idus de Abril, año de los 2 🦆0🦆0, 2773 ab Urbe condita
@@ -148,3 +160,52 @@ El [centurión](https://github.com/raulmagdalena/glosari#centuriones) dejará sa
 Interpretación:
 
 Después de que varios presidentes autonómicos hayan hecho públicos sus planes de desconfinamiento, Pedro Sanchez anunció el domingo 19 de Abril que sería el [Ministerio de Sanidad quien dirigirá el desconfinamiento](https://www.lavanguardia.com/politica/20200419/48618648844/desescalada-confinamiento-estado-alarma-espana-sanchez-autonomias.html). El general de la Guardia Civil José Manuel Santiago dijo en rueda de prensa que  trabajaban para "[minimizar ese clima contrario a la gestión de crisis por parte del Gobierno](https://www.lavanguardia.com/politica/20200419/48615985562/guardia-civil-trabaja-minimizar-criticas-gobierno-redes.html)", lo que después se calificó como "lapsus".
+
+Profecías referidas al día 21 de Abril
+
+[Primera profecía](https://twitter.com/CronicaPestorum/status/1252494399319281664)
+
+Ante diem XI de las Kalendas de Mayo, año de los 2 🦆0🦆0, 2774 ab urbe condita
+30 veintes de abriles después
+Día de la [fundación de la urbe](https://github.com/raulmagdalena/glosari#aburbecondita)
+Ante diem I de la muerte del [bardo manco](https://github.com/raulmagdalena/glosari#bardomanco)
+Ante diem II del libro, el dragón, la rosa, la muerte del [bardo inglés](https://github.com/raulmagdalena/glosari#bardoingles), la [pureza de la cerveza](https://github.com/raulmagdalena/glosari#purezacerveza)
+
+Interpretación:
+
+Curiosamente, la profecía publicada el 21 de Abril, se refiere al mismo día día 21 en lugar del día anterior
+El "día de la fundación de la urbe" se refiere al aniversario de la fundación de Roma, el 21 de Abril de 753 aec.
+Falta un día para el aniversario de la muerte de Miguel de Cervantes
+Fantan dos días para la celebración de San Jorge, día internacional del libro, aniversario de la muerte de William Shakesperare y, lo más importante de todo, aniversario de la proclamación en Baviera de la [Ley de pureza de la cerveza de 1516](https://es.wikipedia.org/wiki/Ley_de_pureza_de_1516).
+
+
+Profecías referidas al día 22 de Abril
+
+[Primera profecía](https://twitter.com/CronicaPestorum/status/1252848592189968385)
+
+Ante diem X de las Kalendas de Mayo, año de los 2 🦆0🦆0, 2774 ab urbe condita
+[Los infantes](https://github.com/raulmagdalena/glosari#losinfantes) serán liberados, "Pronto" y "Cuore" serán de primera necesidad
+El [magistrado de Baetulo](https://github.com/raulmagdalena/glosari#magistradodebaetulo) morderá al alguacil y se hundirá en el infierno
+
+Interpretación:
+El gobinerno anuncia que los niños podrán salir a pasear, pero no concreta como.
+El alcalde de Badalona, en Catalunya, fue detenido saltándose el confinamiento y en estado de enbriaguez. Durante la detención mordió a un policía.
+
+
+Profecías referidas al día 23 de Abril
+
+[Primera profecía](https://twitter.com/CronicaPestorum/status/1253200719039135744)
+
+Ante diem IX d Kalendas de Mayo, año d los 2 🦆0🦆0, 2774 ab urbe condita
+En el [Imperio del Centro](https://github.com/raulmagdalena/glosari#imperiodelcentro) la alarma continuará
+La [Casa del César](https://github.com/raulmagdalena/glosari#casadelcesar) no sabrá que hacer con [los infantes](https://github.com/raulmagdalena/glosari#losinfantes)
+El [Juez Supremo](https://github.com/raulmagdalena/glosari#juezsupremo) podrá amenazar
+El [Emperador](https://github.com/raulmagdalena/glosari#emperador) llamará a reyes y condes
+[La Guadanya](https://github.com/raulmagdalena/glosari#laguadaña) sigue cosechando
+
+Interpretación:
+
+El Gobierno aprobó la [tercera prorroga del estado de alarma](https://www.lavanguardia.com/politica/20200422/48679643891/congreso-aprueba-tercera-prorroga-estado-alarma.html) y sigue sin concretar como los niños podran salir a la calle.
+El juzgado [rechaza la denuncia presentada por Oriol Jonqueras](https://www.lavozdegalicia.es/noticia/espana/2020/04/22/jueza-manresa-desestima-denuncia-junqueras-contra-supremo-amenazas/00031587562300141388440.htm) contra el Tribunal Supremo por presuntas amenazas.
+La [Unión Europera se reunirá](https://www.20minutos.es/noticia/4235542/0/espana-consejo-europeo-bonos-union-europea/) mañana para hablar del plan de reconstrucción
+La cifra de muertos se mantiene [estable](http://www.telemadrid.es/coronavirus-covid-19/Espana-tendencia-Madrid-pacientes-UCi-0-2224577534--20200421114208.html) en España.
