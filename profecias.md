@@ -46,12 +46,13 @@ Francia anunció que se [suspendia la segunda vuelta de las elecciones municipal
 Profecía referia al 18 de marzo [Primera profecía](https://twitter.com/CronicaPestorum/status/1240186676686790656)
 
 Ante diem kalendas de Abril del año de los 2 🦆0🦆0 2773 ab Urbe condita.
-El [Imperio del Centro](https://github.com/raulmagdalena/glosari#larepublica) se rodea de [centuriones](https://github.com/raulmagdalena/glosari#centuriones) en lugar de [galenos](https://github.com/raulmagdalena/glosari#galenos), y decreta las medidas de la usura.
-[La Torre](https://github.com/raulmagdalena/glosari#latorre) implora el cierre de La [Marca](https://github.com/raulmagdalena/glosari#lamarca).
-[Bruto](https://github.com/raulmagdalena/glosari#bruto), el hijo del [francés](https://github.com/raulmagdalena/glosari#elfrances), leerá un bando.
+El <a name="17"></a>[Imperio del Centro](https://github.com/raulmagdalena/glosari#larepublica) se rodea de <a name="18"></a>[centuriones](https://github.com/raulmagdalena/glosari#centuriones) en lugar de <a name="19"></a>[galenos](https://github.com/raulmagdalena/glosari#galenos), y decreta las [medidas de la usura](https://github.com/raulmagdalena/glosari#medidasusura).
+<a name="20"></a>[La Torre](https://github.com/raulmagdalena/glosari#latorre) implora el cierre de La <a name="21"></a>[Marca](https://github.com/raulmagdalena/glosari#lamarca).
+<a name="22"></a>[Bruto](https://github.com/raulmagdalena/glosari#bruto), el hijo del <a name="23"></a>[francés](https://github.com/raulmagdalena/glosari#elfrances), leerá un bando.
 
 Interpretación:
 
+En las ruedas de prensa del gobierno hay más [presencia de militares](https://www.eldiario.es/politica/mandos-flanqueado-ministros-prensa-coronavirus_0_1006150021.html) que de médicos. El presidente del Gobierno [aprueba el paque de ayudas](https://www.elmundo.es/economia/macroeconomia/2020/03/17/5e70e659fdddff3eba8b459b.html) por la crisis del coronavirus. Quim Torra pide de nuevo el [confinamiento de Catalunya](https://www.elmundo.es/cataluna/2020/03/16/5e6f88d6fc6c834e438b45d4.html). Felipe VI [lee un comunicado](https://www.elmundo.es/espana/2020/03/18/5e727e2621efa02c6c8b45d3.html). 
 
 
 Profecías referidas al 10 de Abril [Primera profecía](https://twitter.com/CronicaPestorum/status/1248853386520334340)
@@ -209,3 +210,18 @@ El Gobierno aprobó la [tercera prorroga del estado de alarma](https://www.lavan
 El juzgado [rechaza la denuncia presentada por Oriol Jonqueras](https://www.lavozdegalicia.es/noticia/espana/2020/04/22/jueza-manresa-desestima-denuncia-junqueras-contra-supremo-amenazas/00031587562300141388440.htm) contra el Tribunal Supremo por presuntas amenazas.
 La [Unión Europera se reunirá](https://www.20minutos.es/noticia/4235542/0/espana-consejo-europeo-bonos-union-europea/) mañana para hablar del plan de reconstrucción
 La cifra de muertos se mantiene [estable](http://www.telemadrid.es/coronavirus-covid-19/Espana-tendencia-Madrid-pacientes-UCi-0-2224577534--20200421114208.html) en España.
+
+Profecías referidas al 24 de Abril
+
+[Primera profecía](https://twitter.com/CronicaPestorum/status/1253913517197078529)
+
+Ante diem VII de las Kalendas de Mayo, año de los 2 🦆0🦆0, 2774 ab urbe condita
+[El de la Isla](https://github.com/raulmagdalena/glosari#eldelaisla) decidirá los movimientos del mundo
+[las Taifas](https://github.com/raulmagdalena/glosari#taifas) no pueden levantar su voz
+[El alba](https://github.com/raulmagdalena/glosari#alba) traerá lo obvio, 
+quien más cerca está mejor conoce
+
+Interpretación:
+
+El ministro de salut, Salvador Illa insiste en que la única autoridad competente y [quien decidirá como se produirá la desescalada](https://www.lavanguardia.com/politica/20200423/48686345934/salvador-illa-unidad-lealtad-maxima-coordinacion-comunidades-autonomas-iniciar-desescalada.html) del confinamiento es su ministerio, frente a los planes de diferentes autonomias para proceder con la desescalada.
+La consellera de salut de la Generalitat de Catalunya, [se queja de que no puedan ser los territorios](https://www.lavanguardia.com/vida/20200425/48700077964/algunas-zonas-rurales-e-islas-las-primeras-en-dejar-el-aislamiento.html) los que decidan por sus ciudadanos.

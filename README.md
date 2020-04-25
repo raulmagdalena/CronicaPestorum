@@ -2,6 +2,8 @@
 
 <a name="aburbecondita"></a>***Ab Urbe Condita***:Termino latino que significa "[desde la fundación de la ciudad](https://es.wikipedia.org/wiki/Ab_Urbe_condita)" de Roma.
 
+<a name="alba"></a>***alba***: Se refiera a la Consellera de Salut de la Generalitat de Catalunya Alba Vergés.
+
 <a name="caminos"></a>**Apertura y cierre de los caminos**<sup>[[4]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#4)</sup>: Se refiere al [encierro](#encierro) proclamado por [la Peste](#lapeste) del coronavirus.
 
 <a name="alguacil"></a>**Alguacil**: policia.
@@ -24,7 +26,7 @@
 
 <a name="bolsadeloro"></a>***Bolsa del oro***: Referencia a los coronabonos, bonos solicitados el BCE para hecer frente a los gastos de la Peste.
 
-<a name="bruto"></a>***Bruto, El hijo del francés***<sup>[[9]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#9)</sup>: Felipe VI, hijo de [Juan Carlos I de Borbón](#elfrances), dinastía real de origen francés. Bruto por haber denunciado la corrupción de su padre durante la progresión de [la peste](#lapeste). [Marco Junio Bruto](https://es.wikipedia.org/wiki/MarcoJunioBruto), tiranicida y asesino de Julio César, su supuesto padre.
+<a name="bruto"></a>***Bruto, El hijo del francés***<sup>[[9]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#9)</sup><sup>[[22]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#22)</sup>: Felipe VI, hijo de [Juan Carlos I de Borbón](#elfrances), dinastía real de origen francés. Bruto por haber denunciado la corrupción de su padre durante la progresión de [la peste](#lapeste). [Marco Junio Bruto](https://es.wikipedia.org/wiki/MarcoJunioBruto), tiranicida y asesino de Julio César, su supuesto padre.
 
 <a name="caidadelapeste"></a>***Caída de la Peste***: Descenso del número de contagios, lo que se ha venido a llamar "aplanar la curva".
 
@@ -38,7 +40,7 @@
 
 <a name="cayo"></a>***Cayo***: [Cayo Sempronio Graco](https://es.wikipedia.org/wiki/Cayo_Sempronio_Graco), hermano menor de [Tiberio](https://es.wikipedia.org/wiki/Tiberio_Sempronio_Graco) y a su vez [Tribuno de la plebe](https://es.wikipedia.org/wiki/Tribuno_de_la_plebe) romana, ambos asesinados por los [patricios](#patricios) debido a su política reformista.
 
-<a name="centuriones"></a>***Centuriones***: Militares o Guardia Civil.
+<a name="centuriones"></a>***Centuriones***<sup>[[18]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#18)</sup>: Militares o Guardia Civil.
 
 <a name="cesar"></a>***César***<sup>[[2]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#2)</sup>: Pedro Sánchez Castejón, presidente del Gobierno de España.
 
@@ -70,9 +72,11 @@
 
 <a name="eldelmedio"></a>***El del medio***: [Oriol Mitjà](https://es.wikipedia.org/wiki/Oriol_Mitj%C3%A0_Villar). Mitjà en catalán significa "mediano". Médico e investigador especializado en enfermedades infecciosas, asesor de [la Marca](#lamarca) muy crítico con las decisiones tomadas por el César. Se le acusa de criticar por consideraciones políticas, debido a su afiliación independentista.
 
-<a name="elfrances"></a>***El francés***: el rei emérito Juan Carlos I de Borbón, dinastia de origen francés.
+<a name="elfrances"></a>***El francés***<sup>[[23]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#23)</sup>: El rei emérito Juan Carlos I de Borbón, dinastia de origen francés.
 
 <a name="elganso"></a>***El Ganso***: José María Aznar, [the ansar](https://www.abc.es/internacional/abci-ansar-amigo-jose-maria-200304070300-172884_noticia.html), por [anserinae](https://es.wikipedia.org/wiki/Anserinae) subfamilia de aves a la que pertenecen los gansos. Se le vió paseando por la [villa de Tartessos](#lavilladetartessos) durante [la peste](#lapeste), cuando se suponia que no podía haberse desplazado de la [villa](#Madrid) debido al [encierro](#encierro).
+
+<a name="magistradodebaetulo"></a>***El magistrado de Baetulo***: El alcalde de Badalona.
 
 <a name="eltenor"></a>***El Tenor***: Plácido Domingo, afectado por la Peste. En la Crónica Pestorun se relaciona su contagio como castigo divino por las acusaciones de acoso sexual en su contra realizadas poco antes de [la peste](#lapeste).
 
@@ -92,7 +96,7 @@
 
 <a name="fuentedelaoveja"></a>***Fuente de la oveja***: Referencia a la [Fuenteoveuna](https://es.wikipedia.org/wiki/Fuenteovejuna) de la novela de Lope de Vega. En la cultura popular se suele decir "todos a una como en Fuenteovejuna". Se creé que en el contexto de [la peste](#lapeste) del coronavirus hace referencia a la propuesta de [Pacto de Toledo](https://es.wikipedia.org/wiki/Pacto_de_Toledo) hecha por el Presidente del Gobierno.
 
-<a name="galenos"></a>***Galenos***: Médicos, por el famoso médico griego [Galeno de Pérgamo](https://es.wikipedia.org/wiki/Galeno).
+<a name="galenos"></a>***Galenos***<sup>[[19]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#19)</sup>: Médicos, por el famoso médico griego [Galeno de Pérgamo](https://es.wikipedia.org/wiki/Galeno).
 
 <a name="gigantedebaetulo"></a>***Gigante de Baetulo***: Xavier García Albiol, miembro del PP de Catalunya, ex alcalde de Badalona, la Baetulo romana. Ex jugador de baloncesto del Juventut de Badalona.
 
@@ -106,7 +110,7 @@
 
 <a name="hospiciodelamisericordia"></a>***Hospicio de la Misericordia***: En la Crónica, hace referencia a las residencias de ancianos en los que se ha producido un gran número de fallecidos por la Peste. Parece que el número de ancianos fallecidos no se contabilizó correctamente y dió lugar a un baile macabro de cifras de víctimas de la Peste.
 
-<a name="imperiodelcentro"></a>***Imperio del Centro***<sup>[[1]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#1)</sup><sup>[[12]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#12)</sup><sup>[[15]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#15)</sup>:: Gobierno de España, en contraposición a las [Taifas](#taifas).
+<a name="imperiodelcentro"></a>***Imperio del Centro***<sup>[[1]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#1)</sup><sup>[[12]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#12)</sup><sup>[[15]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#15)</sup><sup>[[17]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#17)</sup>: Gobierno de España, en contraposición a las [Taifas](#taifas).
 
 <a name="indiasdelnorte"></a>***Indias del Norte***: América del norte.
 
@@ -131,7 +135,7 @@
 
 <a name="laguadaña"></a>***La Guadaña***: No necesita presentación, la Muerte.
 
-<a name="lamarca"></a>***La Marca***: Catalunya, antiguamente la [Marca Hispánica](https://es.wikipedia.org/wiki/Marca_Hisp%C3%A1nica) de los Francos y origen político de Catalunya.
+<a name="lamarca"></a>***La Marca***<sup>[[21]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#21)</sup>: Catalunya, antiguamente la [Marca Hispánica](https://es.wikipedia.org/wiki/Marca_Hisp%C3%A1nica) de los Francos y origen político de Catalunya.
 
 <a name="lapasion"></a>***La Pasión***: Semana Santa.
 
@@ -141,7 +145,7 @@
 
 <a name="larepublica"></a>***La República***<sup>[[16]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#16)</sup>:: Francia. La Crónica hace referencia a que "el magistrado de la República no hará más preguntas", por la anulación de la segunda vuelta de las elecciones regionales francesas.
 
-<a name="latorre"></a>***La Torre***<sup>[[3]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#3)</sup><sup>[[11]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#11)</sup><sup>[[13]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#13)</sup>:: Referencia al President de [La Marca](#lamarca), Quim Torra.
+<a name="latorre"></a>***La Torre***<sup>[[3]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#3)</sup><sup>[[11]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#11)</sup><sup>[[13]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#13)</sup><sup>[[20]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#20)</sup>: Referencia al President de [La Marca](#lamarca), Quim Torra.
 
 <a name="lailladetartessos"></a>***La villa de Tartessos***: Marbella, localidad situada en Andalucia, región conocida en la Crónica como [Tartessos](#tartessos).
 
@@ -157,7 +161,7 @@
 
 <a name="mana"></a>***Maná***: Según el libro del Éxodo, el [maná](https://es.wikipedia.org/wiki/Man%C3%A1_(Biblia)) es el pan que Dios enviaba a los israelitas todos los días durante su travesia del desierto. Se interpreta como una referencia a la [Renta Básica](https://es.wikipedia.org/wiki/Renta_b%C3%A1sica_universal).
 
-<a name="magistradodebaetulo"></a>***El magistrado de Baetulo***: El alcalde de Badalona.
+<a name="medidasusura"></a>***Las medidas de la usuara***: [Programa de ayudas]((https://www.elmundo.es/economia/macroeconomia/2020/03/17/5e70e659fdddff3eba8b459b.html)) lanzado por el Gobierno.
 
 <a name="mosmaiorum"></a>***Mos maiorum***: Locución latina con el significado de [la costumbre de los ancestros](https://es.wikipedia.org/wiki/Mos_maiorum). En la Crónica Pestorum hace referencia la continuidad de los privilegios de la oligarquia y los [patricios](#patricios).
 
