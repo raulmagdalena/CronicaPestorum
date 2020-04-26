@@ -1,12 +1,12 @@
 **Glosario y Dramatis Personae de la Crónica Pestorum de Nostradamus**. [Crónica Pestorum](https://twitter.com/CronicaPestorum)
 
-<a name="aburbecondita"></a>***Ab Urbe Condita***:Termino latino que significa "[desde la fundación de la ciudad](https://es.wikipedia.org/wiki/Ab_Urbe_condita)" de Roma.
+<a name="aburbecondita"></a>***Ab Urbe Condita***:Término latino que significa "[desde la fundación de la ciudad](https://es.wikipedia.org/wiki/Ab_Urbe_condita)" de Roma.
 
-<a name="alba"></a>***alba***: Se refiera a la Consellera de Salut de la Generalitat de Catalunya Alba Vergés.
+<a name="alba"></a>***alba***: Se refiere a la Consellera de Salut de la Generalitat de Catalunya Alba Vergés.
 
 <a name="caminos"></a>**Apertura y cierre de los caminos**<sup>[[4]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#4)</sup>: Se refiere al [encierro](#encierro) proclamado por [la Peste](#lapeste) del coronavirus.
 
-<a name="alguacil"></a>**Alguacil**: policia.
+<a name="alguacil"></a>**Alguacil**: Policía.
 
 <a name="amarillo"></a>**Amarillo**: Referencia al independentismo catalán que se identifica con este color.
 
@@ -26,7 +26,9 @@
 
 <a name="bolsadeloro"></a>***Bolsa del oro***: Referencia a los coronabonos, bonos solicitados el BCE para hecer frente a los gastos de la Peste.
 
-<a name="bruto"></a>***Bruto, El hijo del francés***<sup>[[9]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#9)</sup><sup>[[22]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#22)</sup>: Felipe VI, hijo de [Juan Carlos I de Borbón](#elfrances), dinastía real de origen francés. Bruto por haber denunciado la corrupción de su padre durante la progresión de [la peste](#lapeste). [Marco Junio Bruto](https://es.wikipedia.org/wiki/MarcoJunioBruto), tiranicida y asesino de Julio César, su supuesto padre.
+<a name="britanos"></a>***Britanos***<sup>[[26]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#26)</sup>: Gran Bretaña.
+
+<a name="bruto"></a>***Bruto, El hijo del francés***<sup>[[9]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#9)</sup><sup>[[22]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#22)</sup><sup>[[27]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#27)</sup>: Felipe VI, hijo de [Juan Carlos I de Borbón](#elfrances), dinastía real de origen francés. Bruto por haber denunciado la corrupción de su padre durante la progresión de [la peste](#lapeste). [Marco Junio Bruto](https://es.wikipedia.org/wiki/MarcoJunioBruto), tiranicida y asesino de Julio César, su supuesto padre.
 
 <a name="caidadelapeste"></a>***Caída de la Peste***: Descenso del número de contagios, lo que se ha venido a llamar "aplanar la curva".
 
@@ -36,7 +38,7 @@
 
 <a name="cancilleriagaleno"></a>***Cancillería del galeno***: Ministerio de Sanidad.
 
-<a name="casadelashierbas"></a>***Casa de las Hierbas***<sup>[[14]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#14)</sup>:: Casa dels Canonjes, residencia oficial del President de la Generalitat de Catalunya. Canonjes significa canónigos en catalán, una hierba comestible.
+<a name="casadelashierbas"></a>***Casa de las Hierbas***<sup>[[14]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#14)</sup><sup>[[25]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#25)</sup>: Casa dels Canonjes, residencia oficial del President de la Generalitat de Catalunya. Canonjes significa canónigos en catalán, una hierba comestible.
 
 <a name="cayo"></a>***Cayo***: [Cayo Sempronio Graco](https://es.wikipedia.org/wiki/Cayo_Sempronio_Graco), hermano menor de [Tiberio](https://es.wikipedia.org/wiki/Tiberio_Sempronio_Graco) y a su vez [Tribuno de la plebe](https://es.wikipedia.org/wiki/Tribuno_de_la_plebe) romana, ambos asesinados por los [patricios](#patricios) debido a su política reformista.
 
@@ -54,29 +56,29 @@
 
 ***Cuchillo de la Tierra del Estaño***: Referencia a la revista científica de [Las Islas del estaño](#islasdelestaño) "The Lancet", el bisturí.
 
-<a name="demos"></a>***Demos***: Significado del 'el pueblo' en griego antiguo.
+<a name="demos"></a>***Demos***: Significado de 'el pueblo' en griego antiguo.
 
 <a name="elapostol"></a>***El Apóstol***<sup>[[7]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#7)</sup>: Otra referencia al Presidente del Gobierno Español, Pedro.
 
 <a name="elbardodelhabla"></a>***El bardo del habla***: Referencia al escritor de "El Seños de los Anillos" Tolkien. 'talk', hablar en inglés, se pronuncia 'tolk'.
 
-<a name="elbovino"></a>***El bovino***: Referencia a la vacuna del coronavirus. La etimología de la palabra 'vacuna' procede de las investigaciones sobre la viruela vacuna (Variolae Vaccinae) del médico inglés [Edward Jenner](https://es.wikipedia.org/wiki/Edward_Jenner) a finales del siglo XVIII.
+<a name="elbovino"></a>***El bovino***: Referencia a la vacuna del coronavirus. La etimología de la palabra 'vacuna' procede de las investigaciones sobre la [viruela vacuna](https://es.wikipedia.org/wiki/Cowpox_virus) (Variolae Vaccinae) del médico inglés [Edward Jenner](https://es.wikipedia.org/wiki/Edward_Jenner) a finales del siglo XVIII.
 
 <a name="escudodepapel"></a>***Escudo de papel***: Hace referencia a las mascarillas para protejerse del coronavirus
 
 <a name="entradadelhades"></a>***Entrada del Hades***: El Hades es el [Inframundo](https://es.wikipedia.org/wiki/Inframundo_griego) en la mitología griega, que tiene varias entradas: La entrada del Hades puede referirse a la entrada del metro, donde mucha gente se contagiará para después morir e ir al Inframundo.
 
-<a name="iceta"></a>***El Danzarín de Gerunda***: [Miquel Iceta](https://es.wikipedia.org/wiki/Miquel_Iceta), líder del PSC que fue alcalde de Girona. Recordado por bailar en el escenario político. En catalunya también se le conoce como la 'mandonguilla balleruga', la 'albondiga danzarina'. Miquel Iceta se muestra muy crítico con la gestión del President de [la Marca](#lamarca), pese a que esta a sido despojada de sus competencias en materia de salud por el estado de alarma.
+<a name="iceta"></a>***El Danzarín de Gerunda***<sup>[[28]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#28)</sup>: [Miquel Iceta](https://es.wikipedia.org/wiki/Miquel_Iceta), líder del PSC que fue alcalde de Girona (Gerunda en latín). Recordado por bailar en el escenario político. En catalunya también se le conoce como la 'mandonguilla balleruga', la 'albondiga danzarina'. Miquel Iceta se muestra muy crítico con la gestión del President de [la Marca](#lamarca), pese a que esta a sido despojada de sus competencias en materia de salud por el estado de alarma.
 
 <a name="eldelaisla"></a>***El de la Isla***: Referencia al Ministro de Sanidad [Salvador Illa](https://es.wikipedia.org/wiki/Salvador_Illa), 'isla' en catalán, durante [la peste](#lapeste). No tiene conocimientos en materia de salud y su función en un ministerio vacio, con todas sus competencias transferidas a las autonomias, era la de buscar una solución pactada con el independentismo. 
 
-<a name="eldelmedio"></a>***El del medio***: [Oriol Mitjà](https://es.wikipedia.org/wiki/Oriol_Mitj%C3%A0_Villar). Mitjà en catalán significa "mediano". Médico e investigador especializado en enfermedades infecciosas, asesor de [la Marca](#lamarca) muy crítico con las decisiones tomadas por el César. Se le acusa de criticar por consideraciones políticas, debido a su afiliación independentista.
+<a name="eldelmedio"></a>***El del medio***: [Oriol Mitjà](https://es.wikipedia.org/wiki/Oriol_Mitj%C3%A0_Villar). Mitjà en catalán significa "mediano". Médico e investigador especializado en enfermedades infecciosas, asesor de [la Marca](#lamarca) muy crítico con las decisiones tomadas por el [César](#elcesar). Se le acusa de criticar por consideraciones políticas, debido a su afiliación independentista.
 
 <a name="elfrances"></a>***El francés***<sup>[[23]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#23)</sup>: El rei emérito Juan Carlos I de Borbón, dinastia de origen francés.
 
 <a name="elganso"></a>***El Ganso***: José María Aznar, [the ansar](https://www.abc.es/internacional/abci-ansar-amigo-jose-maria-200304070300-172884_noticia.html), por [anserinae](https://es.wikipedia.org/wiki/Anserinae) subfamilia de aves a la que pertenecen los gansos. Se le vió paseando por la [villa de Tartessos](#lavilladetartessos) durante [la peste](#lapeste), cuando se suponia que no podía haberse desplazado de la [villa](#Madrid) debido al [encierro](#encierro).
 
-<a name="magistradodebaetulo"></a>***El magistrado de Baetulo***: El alcalde de Badalona.
+<a name="magistradodebaetulo"></a>***El magistrado de Baetulo***: El alcalde de Badalona (Baetulo en latín).
 
 <a name="eltenor"></a>***El Tenor***: Plácido Domingo, afectado por la Peste. En la Crónica Pestorun se relaciona su contagio como castigo divino por las acusaciones de acoso sexual en su contra realizadas poco antes de [la peste](#lapeste).
 
@@ -84,7 +86,7 @@
 
 <a name="verde"></a>***El Verde***: Referencia al partido político VOX cuya enseña és el verde (**V**iva **e**l **R**ey **d**e **E**spaña)
 
-<a name="emperador"></a>***Emperador***: La Unión Europea, como un emperador, es la mayor autoridad política en Europa.
+<a name="emperador"></a>***Emperador***: La Unión Europea, como lo eran los emperadores, es la mayor autoridad política en Europa.
 
 <a name="encierro"></a>***Encierro***: Confinamiento.
 
@@ -94,11 +96,11 @@
 
 <a name="estrellas"></a>***Estrellas que orbitan***: Se creé que hace referencia a los satélites que geolocalizan los teléfono móbiles durante el confinamiento.
 
-<a name="fuentedelaoveja"></a>***Fuente de la oveja***: Referencia a la [Fuenteoveuna](https://es.wikipedia.org/wiki/Fuenteovejuna) de la novela de Lope de Vega. En la cultura popular se suele decir "todos a una como en Fuenteovejuna". Se creé que en el contexto de [la peste](#lapeste) del coronavirus hace referencia a la propuesta de [Pacto de Toledo](https://es.wikipedia.org/wiki/Pacto_de_Toledo) hecha por el Presidente del Gobierno.
+<a name="fuentedelaoveja"></a>***Fuente de la oveja***: Referencia a [Fuenteoveuna](https://es.wikipedia.org/wiki/Fuenteovejuna) de la novela de Lope de Vega. En la cultura popular se suele decir "todos a una como en Fuenteovejuna". Se creé que en el contexto de [la peste](#lapeste) del coronavirus hace referencia a la propuesta de [Pacto de Toledo](https://es.wikipedia.org/wiki/Pacto_de_Toledo) hecha por el Presidente del Gobierno.
 
 <a name="galenos"></a>***Galenos***<sup>[[19]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#19)</sup>: Médicos, por el famoso médico griego [Galeno de Pérgamo](https://es.wikipedia.org/wiki/Galeno).
 
-<a name="gigantedebaetulo"></a>***Gigante de Baetulo***: Xavier García Albiol, miembro del PP de Catalunya, ex alcalde de Badalona, la Baetulo romana. Ex jugador de baloncesto del Juventut de Badalona.
+<a name="gigantedebaetulo"></a>***Gigante de Baetulo***<sup>[[29]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#29)</sup>: Xavier García Albiol, miembro del PP de Catalunya, ex alcalde de Badalona, la Baetulo romana. Ex jugador de baloncesto del Juventut de Badalona.
 
 <a name="gremios"></a>***Grémios***: La patronal CEOE.
 
@@ -126,7 +128,7 @@
 
 <a name="juezsupremo"></a>***Juez Supremo***: Hace referencia al Tribunal Supremo de España.
 
-<a name="cantantedelacorte"></a>***La cantante de la Corte***: Se creé que hace referencia a la cantante Marta Sanchez, nacida en [la Corte](#la Corte) y procedente del grupo musical Olé Olé, de donde parece que hace referenci la frase 'la que vendrá de los toros. Durante la pandemia compuso una canción infumable trufada de lugares comunes (llamados [trufismos](https://es.wikipedia.org/wiki/Lugar_com%C3%BAn) en la Crónica). La frase 'se inspira ***con*** María' parece hacer referencia a haber compuesto la cantata bajo los efectos de la marihuana. Al parecer la compositora es reincidente en componer fumada himnos infumables.
+<a name="cantantedelacorte"></a>***La cantante de la Corte***: Se creé que hace referencia a la cantante Marta Sanchez, nacida en [la Corte](#lacorte) y procedente del grupo musical Olé Olé, de donde parece que hace referenci la frase 'la que vendrá de los toros. Durante la pandemia compuso una canción infumable trufada de lugares comunes (llamados [trufismos](https://es.wikipedia.org/wiki/Lugar_com%C3%BAn) en la Crónica). La frase 'se inspira ***con*** María' parece hacer referencia a haber compuesto la cantata bajo los efectos de la marihuana. Al parecer la compositora es reincidente en componer fumada himnos infumables.
  
 <a name="lacasadelcesar"></a>***La Casa del César***: Referencia a la Moncloa, residencia oficial del Presidente del Gobierno Español y sede del Gobierno.
 
@@ -145,7 +147,7 @@
 
 <a name="larepublica"></a>***La República***<sup>[[16]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#16)</sup>:: Francia. La Crónica hace referencia a que "el magistrado de la República no hará más preguntas", por la anulación de la segunda vuelta de las elecciones regionales francesas.
 
-<a name="latorre"></a>***La Torre***<sup>[[3]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#3)</sup><sup>[[11]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#11)</sup><sup>[[13]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#13)</sup><sup>[[20]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#20)</sup>: Referencia al President de [La Marca](#lamarca), Quim Torra.
+<a name="latorre"></a>***La Torre***<sup>[[3]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#3)</sup><sup>[[11]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#11)</sup><sup>[[13]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#13)</sup><sup>[[20]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#20)</sup><sup>[[24]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#24)</sup>: Referencia al President de [La Marca](#lamarca), Quim Torra.
 
 <a name="lailladetartessos"></a>***La villa de Tartessos***: Marbella, localidad situada en Andalucia, región conocida en la Crónica como [Tartessos](#tartessos).
 
@@ -161,7 +163,7 @@
 
 <a name="mana"></a>***Maná***: Según el libro del Éxodo, el [maná](https://es.wikipedia.org/wiki/Man%C3%A1_(Biblia)) es el pan que Dios enviaba a los israelitas todos los días durante su travesia del desierto. Se interpreta como una referencia a la [Renta Básica](https://es.wikipedia.org/wiki/Renta_b%C3%A1sica_universal).
 
-<a name="medidasusura"></a>***Las medidas de la usuara***: [Programa de ayudas]((https://www.elmundo.es/economia/macroeconomia/2020/03/17/5e70e659fdddff3eba8b459b.html)) lanzado por el Gobierno.
+<a name="medidasusura"></a>***Las medidas de la usura***: [Programa de ayudas]((https://www.elmundo.es/economia/macroeconomia/2020/03/17/5e70e659fdddff3eba8b459b.html)) lanzado por el Gobierno.
 
 <a name="mosmaiorum"></a>***Mos maiorum***: Locución latina con el significado de [la costumbre de los ancestros](https://es.wikipedia.org/wiki/Mos_maiorum). En la Crónica Pestorum hace referencia la continuidad de los privilegios de la oligarquia y los [patricios](#patricios).
 
@@ -183,7 +185,7 @@
 
 <a name="purezacerveza"></a>***La pureza de la cerveza***: Se refiere a la [Ley de pureza de 1516](https://es.wikipedia.org/wiki/Ley_de_pureza_de_1516) de la cerveza, proclamada un 23 de Abril.
 
-<a name="reyesdelatierradelincienso"></a>***Reyes de la Tierra del Incienso***<sup>[[10]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#10)</sup>: Monarquía Saudí de Arabia. Referencia a las comisiones pagadas al Rey emérito Juan Carlos I por los saudíes para la construcción del tren de alta velocidad a la Meca. Antiguamente, la Península Arábiga era conocida como el origen del incienso y la Mirra.
+<a name="reyesdelatierradelincienso"></a>***Reyes de la Tierra del Incienso***<sup>[[10]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#10)</sup>: Monarquía Saudí de Arabia. Referencia a las comisiones pagadas al [francés](#elfrances) por los saudíes para la construcción del tren de alta velocidad a la Meca. Antiguamente, la Península Arábiga era conocida como el origen del incienso y la Mirra.
 
 <a name="riodeenero"></a>***Rio de Enero***: Rio de Janeiro en Brásil.
 
