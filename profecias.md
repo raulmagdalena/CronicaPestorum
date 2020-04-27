@@ -241,11 +241,25 @@ Profecías referidas al 25 de abril
 [Primera profecía](https://twitter.com/CronicaPestorum/status/1254281200979644416)
 
 Ante diem VI de las kalendas de mayo, año de los 2 🦆0🦆0, 2774 ab urbe condita
-El César hablará en ruedo de la verdad del espejo
+El [César](https://github.com/raulmagdalena/glosari#cesar) hablará en [ruedo de la verdad](https://github.com/raulmagdalena/glosari#ruedodelaverdad) del [espejo](https://github.com/raulmagdalena/glosari#espejo)
 "El postridie de las kalendas seréis liberados"
-El Imperio del Centro apartará a centuriones
+El [Imperio del Centro](https://github.com/raulmagdalena/glosari#imperiodelcentro) apartará a [centuriones](https://github.com/raulmagdalena/glosari#centuriones)
 pero muestra quien controla el territorio
 
 Interpretación:
 
 El presidente del Gobierno compareció en rueda de prensa televisada anunciando el [relajamiento de las medidas de confinamiento](https://www.elmundo.es/espana/2020/04/25/5ea47aab21efa07c598b4596.html) a partir del dos de mayo. En las ruedas de prensa diarias del equipo de gestión de la crisis [han dejado de aparecer uniformados](https://www.lavanguardia.com/politica/20200425/48709156761/moncloa-suprime-uniformados-comparecencias-diarias-pandemia.html). Pese a los distintos planes propuestos por diferentes autonomías, el presidente del Gobierno ha dejado claro que el único que decide [como se realiza la desescalada](https://www.lavanguardia.com/politica/20200426/48721428316/sanchez-se-aferra-al-cuadro-de-mandos-para-impedir-una-carrera-autonomica.html) es el Gobierno.
+
+Profecías referidas al 26 de abril
+
+[Primera profecía](https://twitter.com/CronicaPestorum/status/1254652501477019649)
+
+Ante diem VI de las kalendas de mayo, año de los 2 🦆0🦆0, 2774 ab urbe condita
+Una vez los [infantes](https://github.com/raulmagdalena/glosari#losifantes) liberados, la [plebe](https://github.com/raulmagdalena/glosari#laplebe) saldrá a la calle
+todos mismo pensamiento se encontrarán en la hora séptima
+La [Casa del César](https://github.com/raulmagdalena/glosari#lacasadelcesar) se alarmará
+[Tudescos](https://github.com/raulmagdalena/glosari#tudescos) no vendrán a [tierra de conejos](https://github.com/raulmagdalena/glosari#tierradeconejos)
+
+Interpretación:
+
+Primer día en que se permite salida de los niños a la calle, [se han visto aglomeraciones](https://www.lavanguardia.com/vida/20200426/48733413475/salida-calle-ninos-14-anos-espana-confinamiento.html) de gente en las horas cercanas al mediodía en varias ciudades. Se critica que al ver dado una pauta de salida muy amplia y discrecional, se ha facilitado que se den estas aglomeraciones. El Gobierno avisa que si se incumplen las medidas, cambiará los criterios. Alemania advierte a sus ciudadanos que [no podrán pasar las vacaciones en España](https://www.lavanguardia.com/vida/20200426/48731666746/turismo-espana-alemania-coronavirus-advertencia-no-podran-ir.html).

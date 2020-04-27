@@ -94,6 +94,8 @@
 
 <a name="escudos"></a>***Escudos y armaduras***: Elementos de protección para el contagio.
 
+<a name="espejo"></a>***Espejo***: Televisión.
+
 <a name="estrellas"></a>***Estrellas que orbitan***: Se creé que hace referencia a los satélites que geolocalizan los teléfono móbiles durante el confinamiento.
 
 <a name="fuentedelaoveja"></a>***Fuente de la oveja***: Referencia a [Fuenteoveuna](https://es.wikipedia.org/wiki/Fuenteovejuna) de la novela de Lope de Vega. En la cultura popular se suele decir "todos a una como en Fuenteovejuna". Se creé que en el contexto de [la peste](#lapeste) del coronavirus hace referencia a la propuesta de [Pacto de Toledo](https://es.wikipedia.org/wiki/Pacto_de_Toledo) hecha por el Presidente del Gobierno.
@@ -206,6 +208,8 @@
 <a name="tercios"></a>***Tércios***: Cuerpos de ejercito de la Monarquia Hispánica.
 
 <a name="tiberio"></a>***Tiberio***: Referencia a [Tiberio Sempronio Graco](https://es.wikipedia.org/wiki/Tiberio_Sempronio_Graco), tribuno de la plebe romana asesinado por los [patricios](#patricios).
+
+<a name="tierradeconejos"></a>***Tierra de conejos***: La península ibérica, la Hispania romana. La etimología de la palabra Hispania procede, probablemente, del fenicio y significaría "Isla de los conejos". 
 
 <a name="tierradelgobernadorforzudo"></a>***Tierra del gobernador forzudo***: Se creé que hace referencia a California, de la que Arnold Schwarzenegger, conocido actor musculoso, fué gobernador.
 
