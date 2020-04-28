@@ -26,7 +26,7 @@ El <a name="12"></a>[Imperio del Centro](https://github.com/raulmagdalena/glosar
 
 Interpretación:
 
-Felipe VI anuncia que renuncia a la herencia de su padre, el rey emérito Juan Carlos I, confirmando por pasiva su origen fraudulento. La Crónica juega con la analogía psicológica del hecho de matar al padre y con el hecho histórico de Bruto apuñalando a su supuesto padre Julio César para librarse de la tiranía. Quim Torra, conocido en la Crónica como [la Torre] fue el único presidente autonómico que se negó a firmar el documento presentado por el Gobierno y es presentado como Judas. El verso "El Imperio del Centro sube al cielo" hace referencia al [polémico tweet de Clara Ponsatí](https://www.abc.es/espana/catalunya/politica/abci-coronavirus-madrid-cielo-202003160913_noticia.html), eurodiputada independentista de Junts Per Catalunya, jugando con el significado del conocido verso "de Madrid al cielo".
+Felipe VI anuncia que renuncia a la herencia de su padre, el rey emérito Juan Carlos I, confirmando por pasiva su origen fraudulento. La Crónica juega con la analogía psicológica del hecho de matar al padre y con el hecho histórico de Bruto apuñalando a su supuesto padre Julio César para librarse de la tiranía. Quim Torra, conocido en la Crónica como [la Torre](https://github.com/raulmagdalena/glosari#latorre) fue el único presidente autonómico que se negó a firmar el documento presentado por el Gobierno y es presentado como Judas. El verso "El Imperio del Centro sube al cielo" hace referencia al [polémico tweet de Clara Ponsatí](https://www.abc.es/espana/catalunya/politica/abci-coronavirus-madrid-cielo-202003160913_noticia.html), eurodiputada independentista de Junts Per Catalunya, jugando con el significado del conocido verso "de Madrid al cielo".
 
 Profecía referia al día 16 de marzo [Primera profecía](https://twitter.com/CronicaPestorum/status/1239859150403915776)
 
@@ -64,6 +64,17 @@ El <a name="28"></a>danzarín de Gerunda ataca al galeno mientras el <a name="29
 Interpretación:
 
 El President de la Generalitat Quim Torra es entrevistado por la BBC donde denuncia que el [Gobierno no le permite confinar Catalunya](https://cadenaser.com/ser/2020/03/19/politica/1584653090_769773.html). Se produce por la noche una [cacerolada contra Felipe VI](https://www.lavanguardia.com/politica/20200318/474251651862/cacerolada-discurso-rey-coronavirus.html). Miquel Iceta, líder del PSC, [retwittea un artículo](https://cronicaglobal.elespanol.com/vida/oriol-mitja-coronavirus_329505_102.html) en el que se critica la filiación política del médico Oriol Mitjà y que le acusa de tener intenciones políticas. Xavier Garcia Albiol, ex-alcalde de Badalona del PP, critica que el Gobierno  [cierre las fronteras exteriores y no las interiores](https://cronicaglobal.elespanol.com/vida/oriol-mitja-coronavirus_329505_102.html).
+
+Profecía referida al 20 de marzo [Primera profecía] (https://twitter.com/CronicaPestorum/status/1241259514172710918)
+
+Pero <a name="30"></a>[César](https://github.com/raulmagdalena/glosari#elcesar) se empeña en mantener los <a name="31"></a>[caminos](https://github.com/raulmagdalena/glosari#caminos) abiertos,
+y envia a sus <a name="32"></a>[tércios](https://github.com/raulmagdalena/glosari#tercios) a limpiar el <a name="33"></a>[portus del mar](https://github.com/raulmagdalena/glosari#portusdemar) y el <a name="34"></a>[portus de San Pedro](https://github.com/raulmagdalena/glosari#portusdesanpedro).
+En veneris el populus huira a sus <a name="35"></a>[villas](https://github.com/raulmagdalena/glosari#villas). El <a name="36"></a>[César](https://github.com/raulmagdalena/glosari#elcesar) queda desnudo.
+La mujer del <a name="37"></a>[ganso](https://github.com/raulmagdalena/glosari#elganso) pasea al perro, y al ganso, en la <a name="38"></a>[villa de Tartessos](https://github.com/raulmagdalena/glosari#marbella).
+
+Interpretación:
+
+El presidente del Gobierno [no estima necesario confinar Madrid](https://www.lavanguardia.com/politica/20200316/474195719451/coronavirus-erc-exige-gobierno-cerrar-madrid.html), envía al ejército a realizar tareas de [desinfección en el puerto y aeropuerto de Barcelona](https://www.elespanol.com/espana/20200319/ejercito-barcelona-ume-desinfectara-puerto-aeropuerto-prat/475953066_0.html). El viernes se produjeron importantes [movimientos de población a segundas residencias](https://cadenaser.com/ser/2020/03/20/sociedad/1584732169_471377.html), dejando en evidencia al Gobierno. Ana Botella salió a [pasear al perro](https://maldita.es/malditobulo/2020/03/20/aznar-paseando-perro-cuarentena-foto-estado-de-alarma-coronavirus-botella/) en compañía de su marido en Marbella. Se denunció que la fotografía era del día 19, cuando en realidad se realizó el 13 de marzo. Nostradamus pide disculpas por este error de predicción.
 
 Profecías referidas al 10 de abril [Primera profecía](https://twitter.com/CronicaPestorum/status/1248853386520334340)
 
@@ -165,7 +176,7 @@ Profecías referidas al día 19 de abril
 
 Ante diem XII de las Kalendas de mayo, año de los 
 2 🦆0🦆0, 2773 ab Urbe condita
-El [César](https://github.com/raulmagdalena/glosari#cesar) quiere dejar claro quien controla el territorio y a las [Taifas]((https://github.com/raulmagdalena/glosari#taifas) no permitirá que tomen sus medidas
+El [César](https://github.com/raulmagdalena/glosari#cesar) quiere dejar claro quien controla el territorio y a las [Taifas](https://github.com/raulmagdalena/glosari#taifas) no permitirá que tomen sus medidas
 El [centurión](https://github.com/raulmagdalena/glosari#centuriones) dejará salir aquello que muchos sospechan y temen
 
 Interpretación:
@@ -263,3 +274,18 @@ La [Casa del César](https://github.com/raulmagdalena/glosari#lacasadelcesar) se
 Interpretación:
 
 Primer día en que se permite salida de los niños a la calle, [se han visto aglomeraciones](https://www.lavanguardia.com/vida/20200426/48733413475/salida-calle-ninos-14-anos-espana-confinamiento.html) de gente en las horas cercanas al mediodía en varias ciudades. Se critica que al ver dado una pauta de salida muy amplia y discrecional, se ha facilitado que se den estas aglomeraciones. El Gobierno avisa que si se incumplen las medidas, cambiará los criterios. Alemania advierte a sus ciudadanos que [no podrán pasar las vacaciones en España](https://www.lavanguardia.com/vida/20200426/48731666746/turismo-espana-alemania-coronavirus-advertencia-no-podran-ir.html).
+
+Profecías referidas al 27 de abril
+
+[Primera profecía]()
+
+Ante diem IV de las kalendas de mayo, año de los 2 🦆0🦆0, 2774 ab urbe condita
+En la [Casa del César](https://github.com/raulmagdalena/glosari#lacasadelcesar) el ábaco no funciona o no sabrán usarlo
+La cosecha de [la Guadaña](https://github.com/raulmagdalena/glosari#laguadaña) no estaba clara
+el número de los [oráculos](https://github.com/raulmagdalena/glosari#oraculos) realizados tampoco
+sine die nulle errat
+
+Interpretación:
+
+Después de [varios cambios en los criterios](https://www.elmundo.es/ciencia-y-salud/salud/2020/04/28/5ea7456f21efa094038b4572.html) para realizar el recuento de fallecidos y la no inclusión de fallecidos en residencias no atribuidos al coronavirus, el número de [fallecidos registrados en las funerarias](https://www.ondacero.es/noticias/sociedad/profesionales-funerarios-datos-fallecidos-coronavirus_202004035e87320723797900014113d4.html) es mucho mayorque el contabilizado por el Gobierno.
+Por otro lado, el Gobierno ha remitido, según información aparecida en varios medios, [cuentas de test realizados que no son correctas](https://www.elmundo.es/espana/2020/04/28/5ea75ea5fc6c83112d8b464a.html).

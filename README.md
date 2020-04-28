@@ -4,7 +4,7 @@
 
 <a name="alba"></a>***alba***: Se refiere a la Consellera de Salut de la Generalitat de Catalunya Alba Vergés.
 
-<a name="caminos"></a>**Apertura y cierre de los caminos**<sup>[[4]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#4)</sup>: Se refiere al [encierro](#encierro) proclamado por [la Peste](#lapeste) del coronavirus.
+<a name="caminos"></a>**Apertura y cierre de los caminos**<sup>[[4]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#4)</sup><sup>[[31]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#31)</sup>: Se refiere al [encierro](#encierro) proclamado por [la Peste](#lapeste) del coronavirus.
 
 <a name="alguacil"></a>**Alguacil**: Policía.
 
@@ -44,7 +44,7 @@
 
 <a name="centuriones"></a>***Centuriones***<sup>[[18]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#18)</sup>: Militares o Guardia Civil.
 
-<a name="cesar"></a>***César***<sup>[[2]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#2)</sup>: Pedro Sánchez Castejón, presidente del Gobierno de España.
+<a name="cesar"></a>***César***<sup>[[2]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#2)</sup><sup>[[30]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#30)</sup><sup>[36]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#36)</sup>: Pedro Sánchez Castejón, presidente del Gobierno de España.
 
 <a name="conjuradeoctubre"></a>***Conjura de Octubre***: Defenestración de Sánchez Castejón como Secretario General del [PSOE](#rojo) el 1 de Octubre del 2016 por los barones del partido.
 
@@ -76,7 +76,7 @@
 
 <a name="elfrances"></a>***El francés***<sup>[[23]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#23)</sup>: El rei emérito Juan Carlos I de Borbón, dinastia de origen francés.
 
-<a name="elganso"></a>***El Ganso***: José María Aznar, [the ansar](https://www.abc.es/internacional/abci-ansar-amigo-jose-maria-200304070300-172884_noticia.html), por [anserinae](https://es.wikipedia.org/wiki/Anserinae) subfamilia de aves a la que pertenecen los gansos. Se le vió paseando por la [villa de Tartessos](#lavilladetartessos) durante [la peste](#lapeste), cuando se suponia que no podía haberse desplazado de la [villa](#Madrid) debido al [encierro](#encierro).
+<a name="elganso"></a>***El Ganso***<sup>[[37]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#37)</sup>: José María Aznar, [theansar](https://www.abc.es/internacional/abci-ansar-amigo-jose-maria-200304070300-172884_noticia.html), por [anserinae](https://es.wikipedia.org/wiki/Anserinae) subfamilia de aves a la que pertenecen los gansos. Se le vió paseando por la [villa de Tartessos](#lavilladetartessos) durante [la peste](#lapeste), cuando se suponia que no podía haberse desplazado de la [villa](#Madrid) debido al [encierro](#encierro). Posteriormente se ha sabido que [la imagen pertenece al 13 de marzo](https://maldita.es/malditobulo/2020/03/20/aznar-paseando-perro-cuarentena-foto-estado-de-alarma-coronavirus-botella/), un día antes del anuncio del confinamiento.
 
 <a name="magistradodebaetulo"></a>***El magistrado de Baetulo***: El alcalde de Badalona (Baetulo en latín).
 
@@ -147,11 +147,11 @@
 
 <a name="laplebe"></a>***La Plebe***: El pueblo. Grupo social de la antigua Roma que no pertenecia a ninguna ***gens*** y por lo tanto no tenian ni ciudadania ni derechos.
 
-<a name="larepublica"></a>***La República***<sup>[[16]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#16)</sup>:: Francia. La Crónica hace referencia a que "el magistrado de la República no hará más preguntas", por la anulación de la segunda vuelta de las elecciones regionales francesas.
+<a name="larepublica"></a>***La República***<sup>[[16]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#16)</sup>: Francia. La Crónica hace referencia a que "el magistrado de la República no hará más preguntas", por la anulación de la segunda vuelta de las elecciones regionales francesas.
 
 <a name="latorre"></a>***La Torre***<sup>[[3]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#3)</sup><sup>[[11]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#11)</sup><sup>[[13]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#13)</sup><sup>[[20]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#20)</sup><sup>[[24]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#24)</sup>: Referencia al President de [La Marca](#lamarca), Quim Torra.
 
-<a name="lailladetartessos"></a>***La villa de Tartessos***: Marbella, localidad situada en Andalucia, región conocida en la Crónica como [Tartessos](#tartessos).
+<a name="lailladetartessos"></a>***La villa de Tartessos***<sup>[[38]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#38)</sup>: Marbella, localidad situada en Andalucia, región conocida en la Crónica como [Tartessos](#tartessos).
 
 <a name="lanzarlateja"></a>***Lanzar la teja***: Se supone que hace referencia a la inveterada costumbre de arrojar tejas sobre los gobernantes y causarles la muerte, como en el caso de Ben Hur o Pirro.
 
@@ -179,9 +179,9 @@
 
 <a name="patricios"></a>***Patricios***: Los poderosos. En la antigua Roma los patricios era la clase dirigente que componia el orden [senatorial](#senado).
 
-<a name="portusdemar"></a>***Portus de mar***: puerto, del latín [portus](https://es.wikipedia.org/wiki/Portus).
+<a name="portusdemar"></a>***Portus de mar***<sup>[[33]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#33)</sup>: puerto, del latín [portus](https://es.wikipedia.org/wiki/Portus).
 
-<a name="portusdesanpedro"></a>***Portus de San Pedro***: Aeropuerto. San Pedro recibe en el cielo a las almas.
+<a name="portusdesanpedro"></a>***Portus de San Pedro***<sup>[[34]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#34)</sup>: Aeropuerto. San Pedro recibe en el cielo a las almas.
 
 <a name="poveglia"></a>***Poveglia***: [Isla veneciana](https://es.wikipedia.org/wiki/Poveglia) donde los barcos pasaban el periodo de cuarentena.
 
@@ -205,7 +205,7 @@
 
 <a name="tartessos"></a>***Tartessos***<sup>[[6]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#6)</sup>: Andalucía. [Tartessos](https://es.wikipedia.org/wiki/Tartessos) es un reino legendario que los griegos situaban en el sur de la península Ibérica.
 
-<a name="tercios"></a>***Tércios***: Cuerpos de ejercito de la Monarquia Hispánica.
+<a name="tercios"></a>***Tércios***<sup>[[32]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#32)</sup>: Cuerpos de ejército de la Monarquia Hispánica.
 
 <a name="tiberio"></a>***Tiberio***: Referencia a [Tiberio Sempronio Graco](https://es.wikipedia.org/wiki/Tiberio_Sempronio_Graco), tribuno de la plebe romana asesinado por los [patricios](#patricios).
 
@@ -219,4 +219,4 @@
 
 <a name="usureros"></a>***Usureros***: Banqueros, la banca y por extensión la economía.
 
-<a name="villas"></a>***Villas***: Segundas residencias, por las villas romanas, residéncias campestres.
+<a name="villas"></a>***Villas***<sup>[[35]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#35)</sup>: Segundas residencias, por las villas romanas, residéncias campestres.
