@@ -65,16 +65,29 @@ Interpretación:
 
 El President de la Generalitat Quim Torra es entrevistado por la BBC donde denuncia que el [Gobierno no le permite confinar Catalunya](https://cadenaser.com/ser/2020/03/19/politica/1584653090_769773.html). Se produce por la noche una [cacerolada contra Felipe VI](https://www.lavanguardia.com/politica/20200318/474251651862/cacerolada-discurso-rey-coronavirus.html). Miquel Iceta, líder del PSC, [retwittea un artículo](https://cronicaglobal.elespanol.com/vida/oriol-mitja-coronavirus_329505_102.html) en el que se critica la filiación política del médico Oriol Mitjà y que le acusa de tener intenciones políticas. Xavier Garcia Albiol, ex-alcalde de Badalona del PP, critica que el Gobierno  [cierre las fronteras exteriores y no las interiores](https://cronicaglobal.elespanol.com/vida/oriol-mitja-coronavirus_329505_102.html).
 
-Profecía referida al 20 de marzo [Primera profecía] (https://twitter.com/CronicaPestorum/status/1241259514172710918)
+Profecías referidas al 20 de marzo [Primera profecía](https://twitter.com/CronicaPestorum/status/1241259264724869121)
 
-Pero <a name="30"></a>[César](https://github.com/raulmagdalena/glosari#elcesar) se empeña en mantener los <a name="31"></a>[caminos](https://github.com/raulmagdalena/glosari#caminos) abiertos,
-y envia a sus <a name="32"></a>[tércios](https://github.com/raulmagdalena/glosari#tercios) a limpiar el <a name="33"></a>[portus del mar](https://github.com/raulmagdalena/glosari#portusdemar) y el <a name="34"></a>[portus de San Pedro](https://github.com/raulmagdalena/glosari#portusdesanpedro).
-En veneris el populus huira a sus <a name="35"></a>[villas](https://github.com/raulmagdalena/glosari#villas). El <a name="36"></a>[César](https://github.com/raulmagdalena/glosari#elcesar) queda desnudo.
-La mujer del <a name="37"></a>[ganso](https://github.com/raulmagdalena/glosari#elganso) pasea al perro, y al ganso, en la <a name="38"></a>[villa de Tartessos](https://github.com/raulmagdalena/glosari#marbella).
+Ante diem XII de las kalendas de Abril del año de los dos 🦆0🦆0, 2773 ab Urbe condita
+El <a name="30"></a>[Habsburgo](https://github.com/raulmagdalena/glosari#habsburgo) encierra a sus montañeses
+Las <a name="31"></a>[Indias del Norte](https://github.com/raulmagdalena/glosari#indiasdelnorte), encierra la tierra del gobernador forzudo
+Las <a name="32"></a>[Indias del Sur](https://github.com/raulmagdalena/glosari#indiasdelsur), encierra al <a name="33"></a>[río de enero](https://github.com/raulmagdalena/glosari#riodeenero).
+
+Interpretación:
+
+Austria [confina el Tirol](https://www.elnacional.cat/es/politica/austria-aisla-tirol-coronavirus_482328_102.html), región situada en los Alpes. El gobernador de California [confina el estado](https://elpais.com/sociedad/2020-04-01/por-que-el-coronavirus-no-esta-afectando-igual-a-california-y-a-nueva-york.html), Brasil [confina la región de Rio de Janeiro](https://actualidad.rt.com/actualidad/350129-cifras-violencia-rio-janeiro-cuarentena).
+
+[Segunda profecía](https://twitter.com/CronicaPestorum/status/1241259514172710918)
+
+Pero <a name="34"></a>[César](https://github.com/raulmagdalena/glosari#elcesar) se empeña en mantener los <a name="35"></a>[caminos](https://github.com/raulmagdalena/glosari#caminos) abiertos,
+y envia a sus <a name="36"></a>[tércios](https://github.com/raulmagdalena/glosari#tercios) a limpiar el <a name="37"></a>[portus del mar](https://github.com/raulmagdalena/glosari#portusdemar) y el <a name="38"></a>[portus de San Pedro](https://github.com/raulmagdalena/glosari#portusdesanpedro).
+En veneris el populus huira a sus <a name="39"></a>[villas](https://github.com/raulmagdalena/glosari#villas). El <a name="40"></a>[César](https://github.com/raulmagdalena/glosari#elcesar) queda desnudo.
+La mujer del <a name="41"></a>[ganso](https://github.com/raulmagdalena/glosari#elganso) pasea al perro, y al ganso, en la <a name="42"></a>[villa de Tartessos](https://github.com/raulmagdalena/glosari#marbella).
 
 Interpretación:
 
 El presidente del Gobierno [no estima necesario confinar Madrid](https://www.lavanguardia.com/politica/20200316/474195719451/coronavirus-erc-exige-gobierno-cerrar-madrid.html), envía al ejército a realizar tareas de [desinfección en el puerto y aeropuerto de Barcelona](https://www.elespanol.com/espana/20200319/ejercito-barcelona-ume-desinfectara-puerto-aeropuerto-prat/475953066_0.html). El viernes se produjeron importantes [movimientos de población a segundas residencias](https://cadenaser.com/ser/2020/03/20/sociedad/1584732169_471377.html), dejando en evidencia al Gobierno. Ana Botella salió a [pasear al perro](https://maldita.es/malditobulo/2020/03/20/aznar-paseando-perro-cuarentena-foto-estado-de-alarma-coronavirus-botella/) en compañía de su marido en Marbella. Se denunció que la fotografía era del día 19, cuando en realidad se realizó el 13 de marzo. Nostradamus pide disculpas por este error de predicción.
+
+
 
 Profecías referidas al 10 de abril [Primera profecía](https://twitter.com/CronicaPestorum/status/1248853386520334340)
 
@@ -244,8 +257,8 @@ quien más cerca está mejor conoce
 
 Interpretación:
 
-El ministro de salut, Salvador Illa insiste en que la única autoridad competente y [quien decidirá como se produirá la desescalada](https://www.lavanguardia.com/politica/20200423/48686345934/salvador-illa-unidad-lealtad-maxima-coordinacion-comunidades-autonomas-iniciar-desescalada.html) del confinamiento es su ministerio, frente a los planes de diferentes autonomías para proceder con la desescalada.
-La consellera de salut de la Generalitat de Catalunya, [se queja de que no puedan ser los territorios](https://www.lavanguardia.com/vida/20200425/48700077964/algunas-zonas-rurales-e-islas-las-primeras-en-dejar-el-aislamiento.html) los que decidan por sus ciudadanos.
+El ministro de Sanidad, Salvador Illa insiste en que la única autoridad competente y [quien decidirá como se produirá la desescalada](https://www.lavanguardia.com/politica/20200423/48686345934/salvador-illa-unidad-lealtad-maxima-coordinacion-comunidades-autonomas-iniciar-desescalada.html) del confinamiento es su ministerio, frente a los planes de diferentes autonomías para proceder con la desescalada.
+La consellera de Salut de la Generalitat de Catalunya, [se queja de que no puedan ser los territorios](https://www.lavanguardia.com/vida/20200425/48700077964/algunas-zonas-rurales-e-islas-las-primeras-en-dejar-el-aislamiento.html) los que decidan por sus ciudadanos.
 
 Profecías referidas al 25 de abril
 
@@ -277,7 +290,7 @@ Primer día en que se permite salida de los niños a la calle, [se han visto agl
 
 Profecías referidas al 27 de abril
 
-[Primera profecía]()
+[Primera profecía](https://twitter.com/CronicaPestorum/status/1255014885676777473)
 
 Ante diem IV de las kalendas de mayo, año de los 2 🦆0🦆0, 2774 ab urbe condita
 En la [Casa del César](https://github.com/raulmagdalena/glosari#lacasadelcesar) el ábaco no funciona o no sabrán usarlo
@@ -289,3 +302,31 @@ Interpretación:
 
 Después de [varios cambios en los criterios](https://www.elmundo.es/ciencia-y-salud/salud/2020/04/28/5ea7456f21efa094038b4572.html) para realizar el recuento de fallecidos y la no inclusión de fallecidos en residencias no atribuidos al coronavirus, el número de [fallecidos registrados en las funerarias](https://www.ondacero.es/noticias/sociedad/profesionales-funerarios-datos-fallecidos-coronavirus_202004035e87320723797900014113d4.html) es mucho mayorque el contabilizado por el Gobierno.
 Por otro lado, el Gobierno ha remitido, según información aparecida en varios medios, [cuentas de test realizados que no son correctas](https://www.elmundo.es/espana/2020/04/28/5ea75ea5fc6c83112d8b464a.html).
+
+Profecías referidas al 28 de abril
+
+[Primera profecía](https://twitter.com/CronicaPestorum/status/1255377274842554373)
+
+Ante diem IV de las kalendas de mayo, año de los 2 🦆0🦆0, 2774 ab urbe condita
+La Peste de territorios no entenderá hasta que
+las [provincias imperiales](https://github.com/raulmagdalena/glosari#provinciaimperial) recuperará.
+Los [infantes](https://github.com/raulmagdalena/glosari#infantes) no volverán al [liceo](https://github.com/raulmagdalena/glosari#liceo)
+en las kalendas de Julio, el més del [César](https://github.com/raulmagdalena/glosari#cesar), marcharé.
+
+Interpretación:
+
+El 28 de abril, el Gobierno presentó un plan de desescalada [basado en provincias](https://www.eldiario.es/politica/Pedro-Sanchez-anuncia-desescalada_0_1021548525.html), una unidad territorial que las autonomías, quienes gestionaban las competencias de sanidad hasta el estado de alarma, no contemplan. Los niños [no volverán a las escuelas](https://www.elmundo.es/espana/2020/04/28/5ea86266fdddffb91d8b4665.html) hasta el curso 2020/2021. El Gobierno prevé recuperar la normalidad a finales de junio, fecha cercana a las kalendas de julio (el mes de Julio César).
+
+Profecías referidas al 29 de abril
+
+[Primera profecía]()
+
+Ante diem III de las kalendas de mayo, año de los 2 🦆0🦆0, 2774 ab urbe condita
+El de [la Isla](https://github.com/raulmagdalena/glosari#eldelaisla), la [auctoritas](https://github.com/raulmagdalena/glosari#auctoritas), el negociador, 
+proclamará la [unidad de destino](https://github.com/raulmagdalena/glosari#unidaddedestino)
+¿De que hablará en la mesa el [arcangel republicano](https://github.com/raulmagdalena/glosari#arcangel)
+Las tabernas deberán mantenerse con un tercio.
+
+Interpretación:
+
+El ministro de Sanidad Salvador Illa, el supuesto negociador del PSC con los independentistas anuncia que "[entramos juntos en esto y saldremos juntos de esto](Entramos juntos en esto y saldremos juntos de esto)", algo que a la Crónica se le antoja harto parecido a la "[unidad de destino en lo universal](https://lafalange.org/somos-la-falange/irrevocable/)". Con este precedente, la Crónica se pregunta de que piensa hablar Gabriel Rufián con el ministro en la mesa. Los bares y restaurantes solo podrán abrir con [un tercio de su capacidad](https://www.rtve.es/noticias/20200428/bares-servicio-domicilio-abriran-dia-4-como-sera-desescalada-hosteleria/2012955.shtml), lo que hace muchos negocios inviables.

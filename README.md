@@ -4,13 +4,15 @@
 
 <a name="alba"></a>***alba***: Se refiere a la Consellera de Salut de la Generalitat de Catalunya Alba Vergés.
 
-<a name="caminos"></a>**Apertura y cierre de los caminos**<sup>[[4]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#4)</sup><sup>[[31]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#31)</sup>: Se refiere al [encierro](#encierro) proclamado por [la Peste](#lapeste) del coronavirus.
+<a name="caminos"></a>**Apertura y cierre de los caminos**<sup>[[4]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#4)</sup><sup>[[35]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#35)</sup>: Se refiere al [encierro](#encierro) proclamado por [la Peste](#lapeste) del coronavirus.
 
 <a name="alguacil"></a>**Alguacil**: Policía.
 
 <a name="amarillo"></a>**Amarillo**: Referencia al independentismo catalán que se identifica con este color.
 
-<a name="antigona"></a>**Antígona**: Personaje de la tragedia de Sófocles [Antígona](https://es.wikipedia.org/wiki/Ant%C3%ADgona) que no obedece a [Creonte](https://es.wikipedia.org/wiki/Creonte) rey de [Tebas](https://es.wikipedia.org/wiki/Tebas_(Grecia)). Personaje asociado a Quim Torra, President de la Generalitat de Catalunya que [no firmó el comunicado conjunto](https://www.europapress.es/nacional/noticia-sanchez-firma-presidentes-autonomicos-torra-compromiso-coordinacion-20200315201939.html) durante [la peste](#lapeste). En la [tragedia](https://es.wikipedia.org/wiki/Ant%C3%ADgona_(S%C3%B3focles)), Antígona desobedece la ley al enterrar a su hermano Polinices. En la cultura occidental, Antígona ha representado el papel de la desobediencia frente a la ley y el poderoso aun a riesgo de la muerte. 
+<a name="antigona"></a>**Antígona**: Personaje de la tragedia de Sófocles [Antígona](https://es.wikipedia.org/wiki/Ant%C3%ADgona) que no obedece a [Creonte](https://es.wikipedia.org/wiki/Creonte) rey de [Tebas](https://es.wikipedia.org/wiki/Tebas_(Grecia)). Personaje asociado a Quim Torra, President de la Generalitat de Catalunya que [no firmó el comunicado conjunto](https://www.europapress.es/nacional/noticia-sanchez-firma-presidentes-autonomicos-torra-compromiso-coordinacion-20200315201939.html) durante [la peste](#lapeste). En la [tragedia](https://es.wikipedia.org/wiki/Ant%C3%ADgona_(S%C3%B3focles)), Antígona desobedece la ley al enterrar a su hermano Polinices. En la cultura occidental, Antígona ha representado el papel de la desobediencia frente a la ley y el poderoso aun a riesgo de la muerte.
+
+<a name="arcangel"></a>***: Arcangel republicano hace referencia a [Gabriel Rufián](https://ca.wikipedia.org/wiki/Gabriel_Rufi%C3%A1n_i_Romero), diputado en el Congreso de los Diputados por Esquerra Republicana de Catalunya, y uno de los negociadores en la mesa de diálogo con el Gobierno.
 
 <a name="arjuna"></a>**Arjuna**: Uno de los héroes del poema épico hindú [Mahabharata](https://es.wikipedia.org/wiki/Mahabh%C3%A1rata). [Arjuna](https://es.wikipedia.org/wiki/Arjuna) debe acudir a la guerra cumpliendo su deber como gobernante. En la Crónica Pestorum el papel de Arjuna puede asociarse al presidente del Gobierno Español que, como Arjuna, debe cumplir su papel como gobernante sin tener en cuenta el coste personal. Arjuna en un principio duda, ***Valdrá la pena, se pregunta, aniquilar a su propia gente por el bien del reino?*** En esta tesitura pide consejo a [Krisna](https://es.wikipedia.org/wiki/Krishna) que para impresionarle y convencerle de cumplir su deber se transforma y le dice "Ahora me he convertido en la Muerte, la destructora de mundos". [Robert Oppenheimer](https://es.wikiquote.org/wiki/Robert_Oppenheimer) citó estas palabras tras el ensayo de la bomba atómica en Alamogordo, ya que considerabá haber cumplido con su deber, como Arjuna, pese sus preferencias morales.
 
@@ -44,7 +46,7 @@
 
 <a name="centuriones"></a>***Centuriones***<sup>[[18]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#18)</sup>: Militares o Guardia Civil.
 
-<a name="cesar"></a>***César***<sup>[[2]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#2)</sup><sup>[[30]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#30)</sup><sup>[36]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#36)</sup>: Pedro Sánchez Castejón, presidente del Gobierno de España.
+<a name="cesar"></a>***César***<sup>[[2]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#2)</sup><sup>[[34]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#34)</sup><sup>[40]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#40)</sup>: Pedro Sánchez Castejón, presidente del Gobierno de España.
 
 <a name="conjuradeoctubre"></a>***Conjura de Octubre***: Defenestración de Sánchez Castejón como Secretario General del [PSOE](#rojo) el 1 de Octubre del 2016 por los barones del partido.
 
@@ -76,7 +78,7 @@
 
 <a name="elfrances"></a>***El francés***<sup>[[23]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#23)</sup>: El rei emérito Juan Carlos I de Borbón, dinastia de origen francés.
 
-<a name="elganso"></a>***El Ganso***<sup>[[37]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#37)</sup>: José María Aznar, [theansar](https://www.abc.es/internacional/abci-ansar-amigo-jose-maria-200304070300-172884_noticia.html), por [anserinae](https://es.wikipedia.org/wiki/Anserinae) subfamilia de aves a la que pertenecen los gansos. Se le vió paseando por la [villa de Tartessos](#lavilladetartessos) durante [la peste](#lapeste), cuando se suponia que no podía haberse desplazado de la [villa](#Madrid) debido al [encierro](#encierro). Posteriormente se ha sabido que [la imagen pertenece al 13 de marzo](https://maldita.es/malditobulo/2020/03/20/aznar-paseando-perro-cuarentena-foto-estado-de-alarma-coronavirus-botella/), un día antes del anuncio del confinamiento.
+<a name="elganso"></a>***El Ganso***<sup>[[41]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#41)</sup>: José María Aznar, [theansar](https://www.abc.es/internacional/abci-ansar-amigo-jose-maria-200304070300-172884_noticia.html), por [anserinae](https://es.wikipedia.org/wiki/Anserinae) subfamilia de aves a la que pertenecen los gansos. Se le vió paseando por la [villa de Tartessos](#lavilladetartessos) durante [la peste](#lapeste), cuando se suponia que no podía haberse desplazado de la [villa](#Madrid) debido al [encierro](#encierro). Posteriormente se ha sabido que [la imagen pertenece al 13 de marzo](https://maldita.es/malditobulo/2020/03/20/aznar-paseando-perro-cuarentena-foto-estado-de-alarma-coronavirus-botella/), un día antes del anuncio del confinamiento.
 
 <a name="magistradodebaetulo"></a>***El magistrado de Baetulo***: El alcalde de Badalona (Baetulo en latín).
 
@@ -108,7 +110,7 @@
 
 <a name="guardiandelatierradelestaño"></a>***Guardián de la Tierra del Estaño***: hace referencia al periódico de las [islas del estaño](#islasdelestaño) "The Guardian".
 
-<a name="habsburgo"></a>***Habsburgo***: Austria, por la dinastia reinante de la Casa de Austria.
+<a name="habsburgo"></a>***Habsburgo***<sup>[[30]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#30)</sup>: Austria, por la dinastia reinante de la Casa de Austria.
 
 <a name="hijodelconde"></a>***Hijo del Conde***: Josep Borrell, Alto Representante de la Unión para Asuntos Exteriores y Política de Seguridad. Hace referencia a su apellido, Borrell, conocidos condes catalanes. Su conocida incontinencia verbal provocó que una empresa china cancelara la ayuda prevista, para evitar polémicas.
 
@@ -116,9 +118,9 @@
 
 <a name="imperiodelcentro"></a>***Imperio del Centro***<sup>[[1]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#1)</sup><sup>[[12]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#12)</sup><sup>[[15]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#15)</sup><sup>[[17]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#17)</sup>: Gobierno de España, en contraposición a las [Taifas](#taifas).
 
-<a name="indiasdelnorte"></a>***Indias del Norte***: América del norte.
+<a name="indiasdelnorte"></a>***Indias del Norte***<sup>[[31]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#31)</sup>: América del norte.
 
-<a name="indiasdelsur"></a>***Indias del Sur***: Latinoamérica.
+<a name="indiasdelsur"></a>***Indias del Sur***<sup>[[32]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#32)</sup>: Latinoamérica.
 
 <a name="islasdelestaño"></a>***Islas del estaño***: Islas británicas, antiguamente famosas por ser ricas en estaño, necesario para producir bronce en aleación con el cobre.
 
@@ -151,11 +153,13 @@
 
 <a name="latorre"></a>***La Torre***<sup>[[3]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#3)</sup><sup>[[11]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#11)</sup><sup>[[13]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#13)</sup><sup>[[20]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#20)</sup><sup>[[24]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#24)</sup>: Referencia al President de [La Marca](#lamarca), Quim Torra.
 
-<a name="lailladetartessos"></a>***La villa de Tartessos***<sup>[[38]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#38)</sup>: Marbella, localidad situada en Andalucia, región conocida en la Crónica como [Tartessos](#tartessos).
+<a name="lailladetartessos"></a>***La villa de Tartessos***<sup>[[42]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#42)</sup>: Marbella, localidad situada en Andalucia, región conocida en la Crónica como [Tartessos](#tartessos).
 
 <a name="lanzarlateja"></a>***Lanzar la teja***: Se supone que hace referencia a la inveterada costumbre de arrojar tejas sobre los gobernantes y causarles la muerte, como en el caso de Ben Hur o Pirro.
 
 <a name="latinos"></a>***Latinos***: Referencia a los païses del Sur de Europa.
+
+<a name="liceo"></a>***Liceo: Escuela.
 
 <a name="losfugger"></a>***Los Fugger***: Banqueros alemanes del siglo XIV, principales proveedores de crédito de los [Habsburgo](#habsburgo). En las profecías de la Crónica Pestorum se ha asociado a los Fugger con el BCE.
 
@@ -179,17 +183,19 @@
 
 <a name="patricios"></a>***Patricios***: Los poderosos. En la antigua Roma los patricios era la clase dirigente que componia el orden [senatorial](#senado).
 
-<a name="portusdemar"></a>***Portus de mar***<sup>[[33]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#33)</sup>: puerto, del latín [portus](https://es.wikipedia.org/wiki/Portus).
+<a name="portusdemar"></a>***Portus de mar***<sup>[[37]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#37)</sup>: puerto, del latín [portus](https://es.wikipedia.org/wiki/Portus).
 
-<a name="portusdesanpedro"></a>***Portus de San Pedro***<sup>[[34]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#34)</sup>: Aeropuerto. San Pedro recibe en el cielo a las almas.
+<a name="portusdesanpedro"></a>***Portus de San Pedro***<sup>[[38]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#38)</sup>: Aeropuerto. San Pedro recibe en el cielo a las almas.
 
 <a name="poveglia"></a>***Poveglia***: [Isla veneciana](https://es.wikipedia.org/wiki/Poveglia) donde los barcos pasaban el periodo de cuarentena.
+
+<a name="provinciaimperial"></a>***Provincia imperial***: Según la [Wikipedia](https://es.wikipedia.org/wiki/Provincia_imperial), "Una Provincia imperial era una provincia romana cuyo gobernador era nombrado directa y únicamente por el emperador. Estas provincias generalmente se hallaban en las fronteras del imperio, eran importantes estratégica y militarmente para la seguridad o eran inestables socialmente (en guerra o con tendencia a rebelarse contra el imperio)."
 
 <a name="purezacerveza"></a>***La pureza de la cerveza***: Se refiere a la [Ley de pureza de 1516](https://es.wikipedia.org/wiki/Ley_de_pureza_de_1516) de la cerveza, proclamada un 23 de Abril.
 
 <a name="reyesdelatierradelincienso"></a>***Reyes de la Tierra del Incienso***<sup>[[10]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#10)</sup>: Monarquía Saudí de Arabia. Referencia a las comisiones pagadas al [francés](#elfrances) por los saudíes para la construcción del tren de alta velocidad a la Meca. Antiguamente, la Península Arábiga era conocida como el origen del incienso y la Mirra.
 
-<a name="riodeenero"></a>***Rio de Enero***: Rio de Janeiro en Brásil.
+<a name="riodeenero"></a>***Rio de Enero***<sup>[[33]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#33)</sup>: Rio de Janeiro en Brásil.
 
 <a name="rojo"></a>***Rojo***: Referencia al partido político PSOE cuya enseña és el rojo.
 
@@ -205,7 +211,7 @@
 
 <a name="tartessos"></a>***Tartessos***<sup>[[6]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#6)</sup>: Andalucía. [Tartessos](https://es.wikipedia.org/wiki/Tartessos) es un reino legendario que los griegos situaban en el sur de la península Ibérica.
 
-<a name="tercios"></a>***Tércios***<sup>[[32]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#32)</sup>: Cuerpos de ejército de la Monarquia Hispánica.
+<a name="tercios"></a>***Tércios***<sup>[[36]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#36)</sup>: Cuerpos de ejército de la Monarquia Hispánica.
 
 <a name="tiberio"></a>***Tiberio***: Referencia a [Tiberio Sempronio Graco](https://es.wikipedia.org/wiki/Tiberio_Sempronio_Graco), tribuno de la plebe romana asesinado por los [patricios](#patricios).
 
@@ -219,4 +225,6 @@
 
 <a name="usureros"></a>***Usureros***: Banqueros, la banca y por extensión la economía.
 
-<a name="villas"></a>***Villas***<sup>[[35]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#35)</sup>: Segundas residencias, por las villas romanas, residéncias campestres.
+<a name="unidaddedestino"></a>***Unidad de destino en lo universal***: Definición de España según [Falange Española](http://www.filosofia.org/hem/193/fes/fe0106.htm).
+
+<a name="villas"></a>***Villas***<sup>[[39]](https://github.com/raulmagdalena/glosari/blob/master/profecias.md#39)</sup>: Segundas residencias, por las villas romanas, residéncias campestres.
